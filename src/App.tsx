@@ -29,6 +29,7 @@ import { LiveEvents } from "./pages/LiveEvents";
 import Profile from "./pages/Profile";
 import Wallet from "./pages/Wallet";
 import Overview from "./pages/Overview";
+import Login from "./pages/Login";
 import { useState, useMemo } from "react";
 import { Trophy } from "lucide-react";
 import { TrendingUp } from "lucide-react";
@@ -213,6 +214,7 @@ const getFollowingPosts = () => {
 };
 
 export default function App() {
+  const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [activeFilter, setActiveFilter] = useState<
     "newest" | "trends" | "followings"
   >("newest");
@@ -274,6 +276,11 @@ export default function App() {
   }, [activeFilter]);
 
   const transformedJobs = useMemo(() => transformJobs(), []);
+
+  // If not authenticated, show login screen
+  if (!isAuthenticated) {
+    return <Login onLogin={() => setIsAuthenticated(true)} />;
+  }
 
   // If on profile page, render it directly
   if (currentPage === "profile") {
