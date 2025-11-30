@@ -1,0 +1,169 @@
+{
+  "coinTransactions": [
+    {
+      "id": "trx_001",
+      "userId": "usr_001",
+      "type": "earn",
+      "amount": 20,
+      "reason": "topic_created",
+      "description": "Yeni başlık oluşturuldu: 'Backend Developer olarak iş bulma rehberi'",
+      "relatedId": "tpc_011",
+      "balanceAfter": 65000,
+      "createdAt": "2024-11-30T10:00:00Z"
+    },
+    {
+      "id": "trx_002",
+      "userId": "usr_005",
+      "type": "earn",
+      "amount": 10,
+      "reason": "wiki_edit",
+      "description": "Wiki düzenlendi: 'Yazılım Öğrenme Kaynakları'",
+      "relatedId": "wiki_007",
+      "balanceAfter": 8750,
+      "createdAt": "2024-11-29T14:30:00Z"
+    },
+    {
+      "id": "trx_003",
+      "userId": "usr_009",
+      "type": "earn",
+      "amount": 2,
+      "reason": "entry_written",
+      "description": "Yeni entry yazıldı: 'Staj Başvurusu Rehberi'",
+      "relatedId": "ent_019",
+      "balanceAfter": 4200,
+      "createdAt": "2024-11-28T16:00:00Z"
+    },
+    {
+      "id": "trx_004",
+      "userId": "usr_013",
+      "type": "earn",
+      "amount": 5,
+      "reason": "wiki_useful_vote",
+      "description": "Wiki'niz faydalı bulundu: 'Konya'da Öğrenci Olarak Yaşam'",
+      "relatedId": "wiki_002",
+      "balanceAfter": 28500,
+      "createdAt": "2024-11-28T12:00:00Z"
+    },
+    {
+      "id": "trx_005",
+      "userId": "usr_003",
+      "type": "earn",
+      "amount": 1,
+      "reason": "entry_liked",
+      "description": "Yorumunuz beğenildi",
+      "relatedId": "ent_003",
+      "balanceAfter": 38500,
+      "createdAt": "2024-11-27T18:00:00Z"
+    },
+    {
+      "id": "trx_006",
+      "userId": "usr_017",
+      "type": "spend",
+      "amount": 500,
+      "reason": "kultur_kart_convert",
+      "description": "5 TL Kültür Kart bakiyesine dönüştürüldü",
+      "relatedId": null,
+      "balanceAfter": 51500,
+      "createdAt": "2024-11-27T10:00:00Z"
+    },
+    {
+      "id": "trx_007",
+      "userId": "usr_002",
+      "type": "earn",
+      "amount": 100,
+      "reason": "referral_bonus",
+      "description": "Referans bonusu: yeniyim_ben üye oldu",
+      "relatedId": "usr_007",
+      "balanceAfter": 1850,
+      "createdAt": "2024-10-01T10:30:00Z"
+    },
+    {
+      "id": "trx_008",
+      "userId": "usr_011",
+      "type": "earn",
+      "amount": 20,
+      "reason": "topic_created",
+      "description": "Yeni başlık oluşturuldu: 'Mimarlık Projesi Hazırlama Rehberi'",
+      "relatedId": "tpc_004",
+      "balanceAfter": 6800,
+      "createdAt": "2024-11-26T14:00:00Z"
+    },
+    {
+      "id": "trx_009",
+      "userId": "usr_008",
+      "type": "earn",
+      "amount": 10,
+      "reason": "wiki_edit",
+      "description": "Wiki düzenlendi: 'EEM201 Devre Analizi Dersi'",
+      "relatedId": "wiki_003",
+      "balanceAfter": 5600,
+      "createdAt": "2024-11-25T16:00:00Z"
+    },
+    {
+      "id": "trx_010",
+      "userId": "usr_004",
+      "type": "spend",
+      "amount": 1000,
+      "reason": "kultur_kart_convert",
+      "description": "10 TL Kültür Kart bakiyesine dönüştürüldü",
+      "relatedId": null,
+      "balanceAfter": 41000,
+      "createdAt": "2024-11-24T12:00:00Z"
+    },
+    {
+      "id": "trx_011",
+      "userId": "usr_018",
+      "type": "earn",
+      "amount": 2,
+      "reason": "entry_written",
+      "description": "Yeni entry yazıldı: 'Yatırım yapmaya nereden başlamalı'",
+      "relatedId": "pst_013",
+      "balanceAfter": 4850,
+      "createdAt": "2024-11-26T14:30:00Z"
+    },
+    {
+      "id": "trx_012",
+      "userId": "usr_019",
+      "type": "earn",
+      "amount": 5,
+      "reason": "wiki_useful_vote",
+      "description": "Wiki'niz faydalı bulundu: 'Konya Mutfağı ve Yemek Rehberi'",
+      "relatedId": "wiki_006",
+      "balanceAfter": 2340,
+      "createdAt": "2024-11-25T18:00:00Z"
+    },
+    {
+      "id": "trx_013",
+      "userId": "usr_015",
+      "type": "earn",
+      "amount": 20,
+      "reason": "topic_created",
+      "description": "Yeni başlık oluşturuldu: 'Fizik 101 Çıkmış Sorular'",
+      "relatedId": "acm_005",
+      "balanceAfter": 7200,
+      "createdAt": "2024-11-23T11:00:00Z"
+    },
+    {
+      "id": "trx_014",
+      "userId": "usr_006",
+      "type": "earn",
+      "amount": 10,
+      "reason": "wiki_edit",
+      "description": "Wiki düzenlendi: 'Psikoloji bölümü hakkında'",
+      "relatedId": "pst_014",
+      "balanceAfter": 2100,
+      "createdAt": "2024-11-22T15:00:00Z"
+    },
+    {
+      "id": "trx_015",
+      "userId": "usr_012",
+      "type": "earn",
+      "amount": 2,
+      "reason": "entry_written",
+      "description": "Yeni entry yazıldı: 'Çocuk edebiyatı kitap önerileri'",
+      "relatedId": "pst_010",
+      "balanceAfter": 1920,
+      "createdAt": "2024-11-21T14:00:00Z"
+    }
+  ]
+}

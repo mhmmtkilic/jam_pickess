@@ -1,0 +1,172 @@
+{
+  "places": [
+    {
+      "id": "plc_001",
+      "name": "Mevlana Müzesi",
+      "slug": "mevlana-muzesi",
+      "type": "tarihi",
+      "description": "Hz. Mevlana'nın türbesi ve dergahı. Konya'nın simgesi. Yeşil kubbesiyle ünlü, yılda milyonlarca ziyaretçi alıyor. İç kısımda fotoğraf yasak.",
+      "image": "https://images.unsplash.com/photo-1621930286666-44bc0e28f4c1?w=1080",
+      "address": "Aziziye Mah., Mevlana Cad., Karatay",
+      "coordinates": { "lat": 37.8716, "lng": 32.5030 },
+      "openingHours": { "weekdays": "09:00 - 17:00", "weekend": "09:00 - 17:00" },
+      "ticketPrice": "50 TL (öğrenci)",
+      "tips": [
+        "Hafta içi gidin, hafta sonu çok kalabalık.",
+        "Kıyafet kurallarına dikkat edin.",
+        "Yanında Karatay Medresesi'ni de gezin."
+      ],
+      "rating": 4.8,
+      "reviewCount": 2345,
+      "tags": ["mevlana", "müze", "tarihi"],
+      "createdAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "plc_002",
+      "name": "Alaaddin Tepesi",
+      "slug": "alaaddin-tepesi",
+      "type": "tarihi",
+      "description": "Şehrin merkezindeki tarihi tepe. Selçuklu dönemi camisi var. Şehir manzarası için ideal, özellikle gün batımında çok güzel.",
+      "image": "https://images.unsplash.com/photo-1568322445389-f64ac2515020?w=1080",
+      "address": "Alaaddin Mah., Meram",
+      "coordinates": { "lat": 37.8740, "lng": 32.4920 },
+      "openingHours": { "weekdays": "24 saat", "weekend": "24 saat" },
+      "ticketPrice": "Ücretsiz",
+      "tips": [
+        "Gün batımı için gidin.",
+        "Piknik yapılabilir ama çöplerinizi toplayın.",
+        "Tramvayla Alaaddin durağında inin."
+      ],
+      "rating": 4.5,
+      "reviewCount": 1234,
+      "tags": ["tarihi", "manzara", "park"],
+      "createdAt": "2024-01-05T00:00:00Z"
+    },
+    {
+      "id": "plc_003",
+      "name": "Karatay Medresesi",
+      "slug": "karatay-medresesi",
+      "type": "tarihi",
+      "description": "Selçuklu dönemi medresesi, şu an çini müzesi olarak kullanılıyor. Harika çini koleksiyonu var. Mevlana Müzesi'ne yürüme mesafesinde.",
+      "image": "https://images.unsplash.com/photo-1590073242678-70ee3fc28f8e?w=1080",
+      "address": "Alaaddin Mah., Ankara Cad., Karatay",
+      "coordinates": { "lat": 37.8735, "lng": 32.4925 },
+      "openingHours": { "weekdays": "09:00 - 17:00", "weekend": "09:00 - 17:00" },
+      "ticketPrice": "30 TL (öğrenci)",
+      "tips": [
+        "Çini işçiliğini inceleyin, çok detaylı.",
+        "Fotoğraf çekmek serbest.",
+        "Mevlana ile aynı gün gezin."
+      ],
+      "rating": 4.6,
+      "reviewCount": 567,
+      "tags": ["medrese", "çini", "müze"],
+      "createdAt": "2024-01-10T00:00:00Z"
+    },
+    {
+      "id": "plc_004",
+      "name": "İnce Minare Medresesi",
+      "slug": "ince-minare-medresesi",
+      "type": "tarihi",
+      "description": "Taş ve ahşap işçiliği müzesi. İnce minaresiyle ünlü. Selçuklu mimarisinin en güzel örneklerinden. Kapı süslemeleri muhteşem.",
+      "image": "https://images.unsplash.com/photo-1565099824688-e93eb20fe622?w=1080",
+      "address": "Aziziye Mah., Alaaddin Blv., Karatay",
+      "coordinates": { "lat": 37.8750, "lng": 32.4930 },
+      "openingHours": { "weekdays": "09:00 - 17:00", "weekend": "09:00 - 17:00" },
+      "ticketPrice": "25 TL (öğrenci)",
+      "tips": [
+        "Kapı süslemelerini kaçırmayın.",
+        "Küçük ama değerli koleksiyon.",
+        "Yarım saat yeterli."
+      ],
+      "rating": 4.4,
+      "reviewCount": 345,
+      "tags": ["medrese", "taş işçiliği", "müze"],
+      "createdAt": "2024-01-15T00:00:00Z"
+    },
+    {
+      "id": "plc_005",
+      "name": "Konya Tropikal Kelebek Bahçesi",
+      "slug": "kelebek-bahcesi",
+      "type": "doga",
+      "description": "Tropikal kelebekler ve bitkiler. Fotoğraf çekmek için harika. Çocuklar için de çok güzel ama herkes sever.",
+      "image": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=1080",
+      "address": "Selçuklu, Konya",
+      "coordinates": { "lat": 37.9100, "lng": 32.4500 },
+      "openingHours": { "weekdays": "09:00 - 17:00", "weekend": "09:00 - 18:00" },
+      "ticketPrice": "40 TL (öğrenci)",
+      "tips": [
+        "Renkli kıyafet giyin, kelebekler üzerine konuyor.",
+        "Fotoğraf makinesi şarj edin.",
+        "İçerisi sıcak, kalın kıyafetle girmeyin."
+      ],
+      "rating": 4.3,
+      "reviewCount": 789,
+      "tags": ["doğa", "kelebek", "aile"],
+      "createdAt": "2024-02-01T00:00:00Z"
+    },
+    {
+      "id": "plc_006",
+      "name": "Japon Parkı",
+      "slug": "japon-parki",
+      "type": "doga",
+      "description": "Japon tarzı bahçe tasarımı. Gölet, köprüler, çay evi var. Fotoğraf çekmek için çok popüler. Hafta sonları kalabalık.",
+      "image": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1080",
+      "address": "Selçuklu, Konya",
+      "coordinates": { "lat": 37.9050, "lng": 32.4600 },
+      "openingHours": { "weekdays": "08:00 - 20:00", "weekend": "08:00 - 21:00" },
+      "ticketPrice": "Ücretsiz",
+      "tips": [
+        "Sonbahar renkleri çok güzel.",
+        "Çay evinde oturup dinlenin.",
+        "Sabah saatleri daha sakin."
+      ],
+      "rating": 4.5,
+      "reviewCount": 1456,
+      "tags": ["park", "doğa", "fotoğraf"],
+      "createdAt": "2024-02-10T00:00:00Z"
+    },
+    {
+      "id": "plc_007",
+      "name": "Sille",
+      "slug": "sille",
+      "type": "tarihi",
+      "description": "konya merkeze yakin tarihi kasaba. eski rum ve turk evleri, kiliseler var. cay bahceleri ve el sanatlari dukkanlari. gunubirlik gezi icin ideal.",
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=1080",
+      "address": "Sille Mahallesi, Selçuklu",
+      "coordinates": { "lat": 37.9200, "lng": 32.4100 },
+      "openingHours": { "weekdays": "24 saat", "weekend": "24 saat" },
+      "ticketPrice": "Ücretsiz",
+      "tips": [
+        "Aya Eleni Kilisesi'ni mutlaka görün.",
+        "Gözleme yiyin, çok güzel.",
+        "Yürüyüş ayakkabısı giyin, yokuş var."
+      ],
+      "rating": 4.6,
+      "reviewCount": 890,
+      "tags": ["kasaba", "tarihi", "doğa"],
+      "createdAt": "2024-02-15T00:00:00Z"
+    },
+    {
+      "id": "plc_008",
+      "name": "Konya Bilim Merkezi",
+      "slug": "bilim-merkezi",
+      "type": "modern",
+      "description": "İnteraktif bilim müzesi. Deney alanları, planetaryum var. Öğrenciler için hem eğlenceli hem öğretici. Yarım gün ayırın.",
+      "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1080",
+      "address": "Selçuklu, Konya",
+      "coordinates": { "lat": 37.8900, "lng": 32.4700 },
+      "openingHours": { "weekdays": "09:00 - 18:00", "weekend": "10:00 - 19:00" },
+      "ticketPrice": "35 TL (öğrenci)",
+      "tips": [
+        "Planetaryum seanslarını önceden kontrol edin.",
+        "Her şeye dokunabilirsiniz.",
+        "Hafta içi daha sakin."
+      ],
+      "rating": 4.4,
+      "reviewCount": 567,
+      "tags": ["bilim", "müze", "interaktif"],
+      "createdAt": "2024-03-01T00:00:00Z"
+    }
+  ]
+}

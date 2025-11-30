@@ -1,0 +1,224 @@
+{
+  "topics": [
+    {
+      "id": "tpc_001",
+      "title": "Selçuk Hukuk Fakültesi",
+      "slug": "selcuk-hukuk-fakultesi",
+      "category": "akademik",
+      "wikiContent": {
+        "id": "wiki_001",
+        "content": "Selçuk Üniversitesi Hukuk Fakültesi Rehberi\n\nAdres: Alaeddin Keykubat Kampüsü, Selçuklu/Konya\nTel: 0332 223 12 34\n\nÖnemli Bilgiler:\n- Devamsızlık sınırı %30. Bazı hocalar daha katı.\n- Kütüphane sınav döneminde 7/24 açık.\n- Fotokopi 50 kuruş kampüste, dışarda 25 kuruş.\n\nDers Seçimi:\n- 1. sınıf zorunlu, seçme şansı yok.\n- 2. sınıftan sonra seçmeli var, dikkatli seç.\n- Kolay geçilen dersler: Hukuk Sosyolojisi, Hukuk Felsefesi\n- Zor dersler: Medeni Hukuk, Ceza Hukuku",
+        "lastEditedBy": "usr_003",
+        "lastEditedAt": "2024-11-28T14:30:00Z",
+        "version": 23,
+        "usefulVotes": 156,
+        "notUsefulVotes": 8
+      },
+      "viewCount": 4567,
+      "contributorCount": 89,
+      "entryCount": 234,
+      "createdBy": "usr_003",
+      "tags": ["hukuk", "selçuk", "fakülte"],
+      "createdAt": "2024-01-15T09:00:00Z",
+      "updatedAt": "2024-11-28T14:30:00Z"
+    },
+    {
+      "id": "tpc_002",
+      "title": "Konya'da Öğrenci Olarak Yaşam",
+      "slug": "konya-da-ogrenci-olarak-yasam",
+      "category": "sosyal_yasam",
+      "wikiContent": {
+        "id": "wiki_002",
+        "content": "Konya'da Öğrenci Yaşamı Hakkında Bilmeniz Gerekenler\n\nUlaşım:\n- Tramvay ana ulaşım aracı. Öğrenci kartı 5TL.\n- Gece 23.30 son sefer, dikkat!\n- Bisiklet paylaşım sistemi var ama istasyonlar az.\n\nYemek:\n- Kampüs kantini ucuz ama kalite düşük.\n- Bosna Hersek mahallesinde öğrenci restoranları var.\n- Etli ekmek yemeyen Konya'yı göremez.\n\nEğlence:\n- Sinema Özdilek AVM'de.\n- Konserlere Ankara'ya gidiliyor genelde.\n- Kafeler Meram tarafında yoğun.\n\nKiralar:\n- Kampüs yakını 3500-5000 arası.\n- Meram biraz pahalı ama güzel.\n- Selçuklu uygun fiyatlı.",
+        "lastEditedBy": "usr_013",
+        "lastEditedAt": "2024-11-29T10:00:00Z",
+        "version": 45,
+        "usefulVotes": 234,
+        "notUsefulVotes": 12
+      },
+      "viewCount": 8923,
+      "contributorCount": 156,
+      "entryCount": 567,
+      "createdBy": "usr_002",
+      "tags": ["konya", "öğrenci", "yaşam", "ulaşım"],
+      "createdAt": "2024-02-01T12:00:00Z",
+      "updatedAt": "2024-11-29T10:00:00Z"
+    },
+    {
+      "id": "tpc_003",
+      "title": "EEM201 Devre Analizi Dersi",
+      "slug": "eem201-devre-analizi",
+      "category": "akademik",
+      "wikiContent": {
+        "id": "wiki_003",
+        "content": "EEM201 Devre Analizi - Ders Rehberi\n\nÖnemli Konular:\n- KVL ve KCL (Kirchhoff Kanunları)\n- Thevenin-Norton Teoremleri\n- AC Devre Analizi\n- Fazör Diyagramları\n\nSınav Hazırlığı:\n- Çıkmış soruları çözün, benzer sorular geliyor.\n- Formül kağıdı veriliyor, ezbere gerek yok.\n- Karmaşık sayıları iyi öğrenin.\n\nKaynak Önerileri:\n- Youtube: Michel van Biezen kanalı\n- Kitap: Nilsson - Electric Circuits",
+        "lastEditedBy": "usr_008",
+        "lastEditedAt": "2024-11-27T16:00:00Z",
+        "version": 18,
+        "usefulVotes": 189,
+        "notUsefulVotes": 5
+      },
+      "viewCount": 3456,
+      "contributorCount": 67,
+      "entryCount": 123,
+      "createdBy": "usr_008",
+      "tags": ["eem", "devre", "elektrik"],
+      "createdAt": "2024-03-10T08:00:00Z",
+      "updatedAt": "2024-11-27T16:00:00Z"
+    },
+    {
+      "id": "tpc_004",
+      "title": "Mimarlık Projesi Hazırlama Rehberi",
+      "slug": "mimarlik-projesi-hazirlama",
+      "category": "akademik",
+      "wikiContent": {
+        "id": "wiki_004",
+        "content": "Mimarlık Projesi Nasıl Hazırlanır?\n\nKavram Geliştirme:\n- Her projenin güçlü bir kavramı olmalı.\n- Jüri kavramı arıyor, çizim güzel olsa da yetmez.\n- Kavramı her kararla ilişkilendirin.\n\nÇizim ve Sunum:\n- Temiz çizim şart.\n- Ölçek tutarlılığına dikkat.\n- Render için Lumion veya Twinmotion.\n\nModel Yapımı:\n- Köpük levha daha temiz duruyor.\n- Maket bıçağı ve metal cetvel şart.\n- Kent Plaza'da malzeme bulunur.",
+        "lastEditedBy": "usr_011",
+        "lastEditedAt": "2024-11-28T11:00:00Z",
+        "version": 12,
+        "usefulVotes": 145,
+        "notUsefulVotes": 3
+      },
+      "viewCount": 2345,
+      "contributorCount": 45,
+      "entryCount": 89,
+      "createdBy": "usr_011",
+      "tags": ["mimarlık", "proje", "tasarım"],
+      "createdAt": "2024-04-05T14:00:00Z",
+      "updatedAt": "2024-11-28T11:00:00Z"
+    },
+    {
+      "id": "tpc_005",
+      "title": "Konya'da Çalışma Kafeleri",
+      "slug": "konya-calisma-kafeleri",
+      "category": "mekan",
+      "wikiContent": {
+        "id": "wiki_005",
+        "content": "Konya'da Ders Çalışılacak Yerler\n\nKafeler:\n- Kafeist: Merkezi, pahalı ama güzel ortam.\n- Cafe Study: Sessiz, öğrenci indirimi var.\n- Gece Vakti: 24 saat açık.\n\nKütüphaneler:\n- Selçuk Merkez: Ücretsiz, kalabalık.\n- İl Halk Kütüphanesi: Sessiz, az biliniyor.\n\nCoworking:\n- Code Hub: Yazılımcılar için ideal.\n\nİpuçları:\n- Hafta içi git, hafta sonu kalabalık.\n- Priz için erkenden git.\n- Kahve pahalı, yanında su al.",
+        "lastEditedBy": "usr_013",
+        "lastEditedAt": "2024-11-30T08:00:00Z",
+        "version": 34,
+        "usefulVotes": 278,
+        "notUsefulVotes": 9
+      },
+      "viewCount": 6789,
+      "contributorCount": 112,
+      "entryCount": 234,
+      "createdBy": "usr_002",
+      "tags": ["kafe", "çalışma", "kütüphane"],
+      "createdAt": "2024-02-15T10:00:00Z",
+      "updatedAt": "2024-11-30T08:00:00Z"
+    },
+    {
+      "id": "tpc_006",
+      "title": "Konya Mutfağı ve Yemek Rehberi",
+      "slug": "konya-mutfagi-yemek-rehberi",
+      "category": "sosyal_yasam",
+      "wikiContent": {
+        "id": "wiki_006",
+        "content": "Konya'da Ne Yenir? Nerede Yenir?\n\nGeleneksel Yemekler:\n- Etli Ekmek: Konya'nın pizzası.\n- Bamya Çorbası: Geleneksel.\n- Fırın Kebabı: Et severler için.\n- Höşmerim: Tatlı olarak.\n\nNerede Yenir:\n- Hacı Şükrü: Etli ekmek, pahalı ama lezzetli.\n- Konya Mutfağı: Uygun fiyat.\n- Tiritçi Mithat: Tirit için.\n\nÖğrenci İpuçları:\n- Kantini hafife almayın, 25TL doyarsın.\n- Etli ekmeği paylaşın, porsiyon büyük.",
+        "lastEditedBy": "usr_019",
+        "lastEditedAt": "2024-11-28T17:00:00Z",
+        "version": 28,
+        "usefulVotes": 198,
+        "notUsefulVotes": 7
+      },
+      "viewCount": 5432,
+      "contributorCount": 89,
+      "entryCount": 178,
+      "createdBy": "usr_019",
+      "tags": ["yemek", "restoran", "konya"],
+      "createdAt": "2024-03-01T12:00:00Z",
+      "updatedAt": "2024-11-28T17:00:00Z"
+    },
+    {
+      "id": "tpc_007",
+      "title": "Yazılım Öğrenme Kaynakları",
+      "slug": "yazilim-ogrenme-kaynaklari",
+      "category": "kariyer",
+      "wikiContent": {
+        "id": "wiki_007",
+        "content": "Sıfırdan Yazılım Öğrenmek\n\nNereden Başlamalı:\n- Python veya JavaScript ile başlayın.\n- CS50 Harvard kursu (ücretsiz).\n- BTK Akademi ve Patika.dev (Türkçe).\n\nYouTube Kanalları:\n- İngilizce: Traversy Media, The Net Ninja\n- Türkçe: Sadık Turan, Adem İlter\n\nPratik İçin:\n- LeetCode, HackerRank\n- Kendi projelerinizi yapın.\n- GitHub'da aktif olun.",
+        "lastEditedBy": "usr_001",
+        "lastEditedAt": "2024-11-26T14:00:00Z",
+        "version": 21,
+        "usefulVotes": 234,
+        "notUsefulVotes": 6
+      },
+      "viewCount": 7654,
+      "contributorCount": 98,
+      "entryCount": 212,
+      "createdBy": "usr_005",
+      "tags": ["yazılım", "programlama", "kariyer"],
+      "createdAt": "2024-02-20T09:00:00Z",
+      "updatedAt": "2024-11-26T14:00:00Z"
+    },
+    {
+      "id": "tpc_008",
+      "title": "Mevlana ve Konya Kültürü",
+      "slug": "mevlana-konya-kulturu",
+      "category": "sosyal_yasam",
+      "wikiContent": {
+        "id": "wiki_008",
+        "content": "Mevlana ve Konya\n\nTarihi Yerler:\n- Mevlana Müzesi: Mutlaka görün.\n- Alaaddin Tepesi: Şehir manzarası.\n- Karatay Medresesi: Çini müzesi.\n- İnce Minare: Taş işçiliği.\n\nMevlana Haftası:\n- Her yıl 7-17 Aralık.\n- Sema gösterileri ücretsiz.\n- Çok kalabalık, erkenden gidin.\n\nZiyaret İpuçları:\n- Hafta içi gidin.\n- Kıyafet kuralları var.\n- İç kısımda fotoğraf yasak.",
+        "lastEditedBy": "usr_017",
+        "lastEditedAt": "2024-11-29T09:00:00Z",
+        "version": 35,
+        "usefulVotes": 312,
+        "notUsefulVotes": 4
+      },
+      "viewCount": 9876,
+      "contributorCount": 145,
+      "entryCount": 345,
+      "createdBy": "usr_017",
+      "tags": ["mevlana", "kültür", "tarihi"],
+      "createdAt": "2024-01-10T10:00:00Z",
+      "updatedAt": "2024-11-29T09:00:00Z"
+    },
+    {
+      "id": "tpc_009",
+      "title": "Staj Başvurusu Rehberi",
+      "slug": "staj-basvurusu-rehberi",
+      "category": "kariyer",
+      "wikiContent": {
+        "id": "wiki_009",
+        "content": "Staj Nasıl Bulunur?\n\nCV Hazırlama:\n- Tek sayfa olsun.\n- Proje deneyimlerinizi yazın.\n- GitHub linki ekleyin (yazılım için).\n\nBaşvuru Stratejisi:\n- LinkedIn'i aktif kullanın.\n- HR'larla bağlantı kurun.\n- Şirket etkinliklerine katılın.\n\nMülakat Hazırlığı:\n- Şirketi araştırın.\n- Sorularınızı hazırlayın.\n- Teknik mülakat için pratik yapın.",
+        "lastEditedBy": "usr_009",
+        "lastEditedAt": "2024-11-27T12:00:00Z",
+        "version": 19,
+        "usefulVotes": 178,
+        "notUsefulVotes": 8
+      },
+      "viewCount": 5678,
+      "contributorCount": 78,
+      "entryCount": 156,
+      "createdBy": "usr_009",
+      "tags": ["staj", "kariyer", "iş"],
+      "createdAt": "2024-03-15T11:00:00Z",
+      "updatedAt": "2024-11-27T12:00:00Z"
+    },
+    {
+      "id": "tpc_010",
+      "title": "Konya'da Ulaşım Rehberi",
+      "slug": "konya-ulasim-rehberi",
+      "category": "sosyal_yasam",
+      "wikiContent": {
+        "id": "wiki_010",
+        "content": "Konya'da Nasıl Ulaşılır?\n\nTramvay:\n- Ana ulaşım aracı.\n- Konya Kart al, AVM'lerden.\n- Son sefer 23.30.\n- Tek biniş 7.5TL, kartla 5TL.\n\nOtobüs:\n- Hat sayısı az.\n- Google Maps'ten bakın.\n\nTaksi:\n- Uber yok.\n- BiTaksi uygulaması var.\n\nBisiklet:\n- Paylaşım sistemi var.\n- İstasyon sayısı az.\n\nYürüme:\n- Merkez küçük, yürünebilir.",
+        "lastEditedBy": "usr_013",
+        "lastEditedAt": "2024-11-25T15:00:00Z",
+        "version": 16,
+        "usefulVotes": 145,
+        "notUsefulVotes": 5
+      },
+      "viewCount": 4321,
+      "contributorCount": 67,
+      "entryCount": 98,
+      "createdBy": "usr_013",
+      "tags": ["ulaşım", "tramvay", "konya"],
+      "createdAt": "2024-04-01T08:00:00Z",
+      "updatedAt": "2024-11-25T15:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "jobs": [
+    {
+      "id": "job_001",
+      "type": "job",
+      "authorId": "usr_003",
+      "category": "tutor",
+      "title": "Lise 3 öğrenciye matematik dersi",
+      "details": {
+        "location": "Meram, Konya",
+        "payment": "400 TL / saat",
+        "time": "Haftasonu"
+      },
+      "description": "Selçuk Mat Öğretmenliği son sınıftayım. 3 yıldır özel ders veriyorum. TYT AYT hazırlık yaptırabilirim. Referanslarım var isteyene atarım.",
+      "isActive": true,
+      "applications": 5,
+      "views": 120,
+      "createdAt": "2024-11-30T08:00:00Z",
+      "updatedAt": "2024-11-30T08:00:00Z"
+    },
+    {
+      "id": "job_002",
+      "type": "job",
+      "authorId": "usr_010",
+      "category": "roommate",
+      "title": "Meram'da 3+1 eve erkek arkadaş",
+      "details": {
+        "location": "Meram, Konya",
+        "payment": "4500 TL (aidat dahil)",
+        "time": "Şubat başı"
+      },
+      "description": "Kampüse tramvayla 15dk. 2 kişi kalıyoz tıp ve hukuk okuyoruz. Sessiz düzeni seven birini arıyoruz. Sigara içen olmasın lütfen ev içinde. İnternet dahil.",
+      "amenities": ["wifi", "eşyalı", "kombi"],
+      "isActive": true,
+      "applications": 12,
+      "views": 345,
+      "createdAt": "2024-11-29T18:00:00Z",
+      "updatedAt": "2024-11-29T18:00:00Z"
+    },
+    {
+      "id": "job_003",
+      "type": "job",
+      "authorId": "usr_001",
+      "category": "internship",
+      "title": "Frontend stajyer alımı - Yazılım Şirketi",
+      "details": {
+        "location": "Selçuklu, Konya",
+        "payment": "Asgari ücret + yemek kartı",
+        "time": "Tam zamanlı"
+      },
+      "description": "React TypeScript bilen stajyer arıyoruz. Git kullanmış olması lazım. Uzun süreli çalışabilecek öğrencilere öncelik. CV ve GitHub linki ile başvurun.",
+      "requirements": ["React", "TypeScript", "Git"],
+      "isActive": true,
+      "applications": 28,
+      "views": 567,
+      "createdAt": "2024-11-29T14:00:00Z",
+      "updatedAt": "2024-11-29T14:00:00Z"
+    },
+    {
+      "id": "job_004",
+      "type": "job",
+      "authorId": "usr_012",
+      "category": "tutor",
+      "title": "İngilizce özel ders - YDS/TOEFL hazırlık",
+      "details": {
+        "location": "Online / Selçuklu",
+        "payment": "350 TL / saat",
+        "time": "Esnek"
+      },
+      "description": "İngilizce Öğretmenliği mezunuyum. YDS 92.5 aldım. TOEFL, IELTS, YDS hazırlık yapıyorum. Online veya yüzyüze olabilir. İlk ders ücretsiz tanışma amaçlı.",
+      "isActive": true,
+      "applications": 8,
+      "views": 234,
+      "createdAt": "2024-11-29T10:00:00Z",
+      "updatedAt": "2024-11-29T10:00:00Z"
+    },
+    {
+      "id": "job_005",
+      "type": "job",
+      "authorId": "usr_006",
+      "category": "roommate",
+      "title": "Selçuklu'da kız öğrenci ev arkadaşı",
+      "details": {
+        "location": "Selçuklu, Konya",
+        "payment": "3800 TL (faturalar hariç)",
+        "time": "Hemen"
+      },
+      "description": "2+1 daire, kampüse yürüme mesafesi. 1 kişi kalıyo psikoloji okuyo. Temiz düzenli sessiz biri arıyoruz. Eşyalı, kombili. Fotoğraf isteyene atarım.",
+      "amenities": ["wifi", "eşyalı", "kombi", "asansör"],
+      "isActive": true,
+      "applications": 15,
+      "views": 423,
+      "createdAt": "2024-11-28T16:00:00Z",
+      "updatedAt": "2024-11-28T16:00:00Z"
+    },
+    {
+      "id": "job_006",
+      "type": "job",
+      "authorId": "usr_005",
+      "category": "freelance",
+      "title": "Web sitesi yapımı - React/Next.js",
+      "details": {
+        "location": "Uzaktan",
+        "payment": "2000-5000 TL (projeye göre)",
+        "time": "Esnek"
+      },
+      "description": "Küçük işletmeler ve kişisel siteler için web geliştirme yapıyorum. React, Next.js, Tailwind CSS. Portfolio: github.com/yazilimciosman. Fiyat projenin kapsamına göre değişir.",
+      "isActive": true,
+      "applications": 6,
+      "views": 189,
+      "createdAt": "2024-11-28T12:00:00Z",
+      "updatedAt": "2024-11-28T12:00:00Z"
+    },
+    {
+      "id": "job_007",
+      "type": "job",
+      "authorId": "usr_016",
+      "category": "freelance",
+      "title": "Logo ve kurumsal kimlik tasarımı",
+      "details": {
+        "location": "Uzaktan",
+        "payment": "500-1500 TL",
+        "time": "3-5 gün"
+      },
+      "description": "logo tasarimi, kartvizit, antetli kagit vs. kurumsal kimlik paketi yapiyorum. ornekler icin dm atin. ogrenci indirimi var.",
+      "isActive": true,
+      "applications": 4,
+      "views": 156,
+      "createdAt": "2024-11-28T09:00:00Z",
+      "updatedAt": "2024-11-28T09:00:00Z"
+    },
+    {
+      "id": "job_008",
+      "type": "job",
+      "authorId": "usr_002",
+      "category": "parttime",
+      "title": "Kafe'de part-time garson",
+      "details": {
+        "location": "Meram, Konya",
+        "payment": "Asgari ücret + bahşiş",
+        "time": "Haftasonu"
+      },
+      "description": "Meram'daki kafemizde haftasonu çalışacak garson arıyoruz. Deneyim şart değil, güler yüzlü olsun yeter. Öğrencilere uygundur.",
+      "isActive": true,
+      "applications": 22,
+      "views": 456,
+      "createdAt": "2024-11-27T18:00:00Z",
+      "updatedAt": "2024-11-27T18:00:00Z"
+    },
+    {
+      "id": "job_009",
+      "type": "job",
+      "authorId": "usr_009",
+      "category": "sale",
+      "title": "MacBook Air M1 2020 - Temiz",
+      "details": {
+        "location": "Selçuklu, Konya",
+        "payment": "22.000 TL",
+        "time": "Pazarlık payı var"
+      },
+      "description": "MacBook Air M1, 8GB RAM, 256GB SSD. 2020 model, çok az kullanıldı. Kutusu ve şarj aleti var. Çizik yok, batarya sağlığı %92. Mezun olduğum için satıyorum.",
+      "items": ["MacBook Air M1", "Orijinal kutu", "Şarj adaptörü"],
+      "isActive": true,
+      "applications": 8,
+      "views": 312,
+      "createdAt": "2024-11-27T14:00:00Z",
+      "updatedAt": "2024-11-27T14:00:00Z"
+    },
+    {
+      "id": "job_010",
+      "type": "job",
+      "authorId": "usr_008",
+      "category": "tutor",
+      "title": "Elektrik-Elektronik dersleri özel ders",
+      "details": {
+        "location": "Kampüs / Online",
+        "payment": "300 TL / saat",
+        "time": "Esnek"
+      },
+      "description": "EEM öğrencilerine devre analizi, elektronik, sinyal sistemleri dersleri veriyorum. 3. sınıf öğrencisiyim, geçen yıl bu dersleri yüksek notla geçtim. Çıkmış soru çözümü yaparım.",
+      "isActive": true,
+      "applications": 7,
+      "views": 178,
+      "createdAt": "2024-11-27T10:00:00Z",
+      "updatedAt": "2024-11-27T10:00:00Z"
+    },
+    {
+      "id": "job_011",
+      "type": "job",
+      "authorId": "usr_015",
+      "category": "sale",
+      "title": "AutoCAD ve Revit kitapları",
+      "details": {
+        "location": "Selçuklu, Konya",
+        "payment": "150 TL / adet",
+        "time": "Müsait"
+      },
+      "description": "inşaat mühendisliği için aldığım kitaplar. autocad 2022, revit 2021. türkçe. çok az kullandım. toplu alana indirim.",
+      "items": ["AutoCAD 2022 Türkçe", "Revit 2021 Türkçe"],
+      "isActive": true,
+      "applications": 3,
+      "views": 89,
+      "createdAt": "2024-11-26T16:00:00Z",
+      "updatedAt": "2024-11-26T16:00:00Z"
+    },
+    {
+      "id": "job_012",
+      "type": "job",
+      "authorId": "usr_011",
+      "category": "freelance",
+      "title": "Mimari çizim ve 3D modelleme",
+      "details": {
+        "location": "Uzaktan",
+        "payment": "Projeye göre",
+        "time": "1-2 hafta"
+      },
+      "description": "AutoCAD, SketchUp, Lumion ile çizim ve render yapıyorum. Öğrenci projeleri için uygun fiyat. Referanslar için portfolio atarım.",
+      "isActive": true,
+      "applications": 5,
+      "views": 145,
+      "createdAt": "2024-11-26T12:00:00Z",
+      "updatedAt": "2024-11-26T12:00:00Z"
+    },
+    {
+      "id": "job_013",
+      "type": "job",
+      "authorId": "usr_017",
+      "category": "tutor",
+      "title": "Felsefe ve Mantık dersi - YKS hazırlık",
+      "details": {
+        "location": "Online",
+        "payment": "250 TL / saat",
+        "time": "Akşam saatleri"
+      },
+      "description": "Felsefe bölümü son sınıf öğrencisiyim. YKS felsefe ve mantık konularında ders veriyorum. Kolay anlaşılır anlatım, bol örnek soru çözümü.",
+      "isActive": true,
+      "applications": 4,
+      "views": 98,
+      "createdAt": "2024-11-25T20:00:00Z",
+      "updatedAt": "2024-11-25T20:00:00Z"
+    },
+    {
+      "id": "job_014",
+      "type": "job",
+      "authorId": "usr_018",
+      "category": "roommate",
+      "title": "3+1 daire Bosna Hersek Mah.",
+      "details": {
+        "location": "Bosna Hersek, Selçuklu",
+        "payment": "4200 TL",
+        "time": "Aralık sonu"
+      },
+      "description": "Kampüse 10dk yürüme. 2 erkek öğrenci kalıyo iktisat ve bilgisayar. Sessiz çalışkan biri lazım. Eşyalı, kombili, internet var. Fotoğraf dm.",
+      "amenities": ["wifi", "eşyalı", "kombi"],
+      "isActive": true,
+      "applications": 9,
+      "views": 267,
+      "createdAt": "2024-11-25T14:00:00Z",
+      "updatedAt": "2024-11-25T14:00:00Z"
+    },
+    {
+      "id": "job_015",
+      "type": "job",
+      "authorId": "usr_019",
+      "category": "sale",
+      "title": "Çalışma masası ve sandalye - IKEA",
+      "details": {
+        "location": "Meram, Konya",
+        "payment": "1800 TL",
+        "time": "Bu hafta"
+      },
+      "description": "IKEA MALM çalışma masası (140x65) ve MARKUS ofis sandalyesi. 1 yıllık, çok iyi durumda. Taşınma nedeniyle satıyorum. Ayrı ayrı da satılabilir.",
+      "items": ["IKEA MALM masa", "MARKUS sandalye"],
+      "isActive": true,
+      "applications": 6,
+      "views": 198,
+      "createdAt": "2024-11-24T18:00:00Z",
+      "updatedAt": "2024-11-24T18:00:00Z"
+    }
+  ]
+}

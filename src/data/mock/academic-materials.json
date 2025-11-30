@@ -1,0 +1,224 @@
+{
+  "academicMaterials": [
+    {
+      "id": "acm_001",
+      "type": "note",
+      "title": "Mat 101 Lineer Cebir - Dönem Sonu Özet",
+      "description": "Tüm konuların özeti. Matris işlemleri, determinant, özdeğer-özvektör. Formüller ve örnekler dahil.",
+      "authorId": "usr_001",
+      "university": "Selçuk Üniversitesi",
+      "department": "Mühendislik Fakültesi",
+      "course": "MAT101",
+      "year": 2024,
+      "semester": "güz",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "pageCount": 45,
+      "stats": {
+        "downloads": 567,
+        "rating": 4.8,
+        "ratingCount": 89
+      },
+      "createdAt": "2024-11-25T10:00:00Z",
+      "updatedAt": "2024-11-25T10:00:00Z"
+    },
+    {
+      "id": "acm_002",
+      "type": "exam",
+      "title": "EEM201 Devre Analizi Çıkmış Sorular (2020-2024)",
+      "description": "son 4 yılın vize ve final sorulari. cozumler yok ama sorular tam. KVL KCL, Thevenin, AC analiz.",
+      "authorId": "usr_008",
+      "university": "Selçuk Üniversitesi",
+      "department": "Elektrik-Elektronik Mühendisliği",
+      "course": "EEM201",
+      "year": 2024,
+      "semester": "tümü",
+      "fileType": "pdf",
+      "fileSize": "8.2 MB",
+      "pageCount": 67,
+      "stats": {
+        "downloads": 432,
+        "rating": 4.6,
+        "ratingCount": 56
+      },
+      "createdAt": "2024-11-20T14:00:00Z",
+      "updatedAt": "2024-11-20T14:00:00Z"
+    },
+    {
+      "id": "acm_003",
+      "type": "note",
+      "title": "Medeni Hukuk - Oğuzman Barlas Özet",
+      "description": "Kitabın özetlenmiş hali. Sınava çalışırken çok işe yarıyor. Önemli kararlar işaretli.",
+      "authorId": "usr_003",
+      "university": "Selçuk Üniversitesi",
+      "department": "Hukuk Fakültesi",
+      "course": "HUK201",
+      "year": 2024,
+      "semester": "güz",
+      "fileType": "pdf",
+      "fileSize": "5.6 MB",
+      "pageCount": 120,
+      "stats": {
+        "downloads": 789,
+        "rating": 4.9,
+        "ratingCount": 134
+      },
+      "createdAt": "2024-11-15T09:00:00Z",
+      "updatedAt": "2024-11-15T09:00:00Z"
+    },
+    {
+      "id": "acm_004",
+      "type": "note",
+      "title": "Mimari Proje Sunum Teknikleri",
+      "description": "Jüriye nasıl sunum yapılır, pafta düzeni nasıl olmalı, render ipuçları. 3. sınıf deneyimlerimden.",
+      "authorId": "usr_011",
+      "university": "Konya Teknik Üniversitesi",
+      "department": "Mimarlık Fakültesi",
+      "course": "MİM301",
+      "year": 2024,
+      "semester": "güz",
+      "fileType": "pdf",
+      "fileSize": "12.3 MB",
+      "pageCount": 35,
+      "stats": {
+        "downloads": 234,
+        "rating": 4.7,
+        "ratingCount": 45
+      },
+      "createdAt": "2024-11-18T16:00:00Z",
+      "updatedAt": "2024-11-18T16:00:00Z"
+    },
+    {
+      "id": "acm_005",
+      "type": "exam",
+      "title": "Fizik 101 Çıkmış Sorular + Çözümler",
+      "description": "2022-2024 arası tüm sınavlar. Çözümler adım adım anlatılmış. Mekanik ve termodinamik.",
+      "authorId": "usr_015",
+      "university": "Konya Teknik Üniversitesi",
+      "department": "Mühendislik Fakültesi",
+      "course": "FİZ101",
+      "year": 2024,
+      "semester": "tümü",
+      "fileType": "pdf",
+      "fileSize": "15.7 MB",
+      "pageCount": 89,
+      "stats": {
+        "downloads": 654,
+        "rating": 4.5,
+        "ratingCount": 78
+      },
+      "createdAt": "2024-11-10T11:00:00Z",
+      "updatedAt": "2024-11-10T11:00:00Z"
+    },
+    {
+      "id": "acm_006",
+      "type": "note",
+      "title": "Python Programlama - Ders Notları",
+      "description": "Bilgisayar mühendisliği 1. sınıf python dersi için hazırladığım notlar. Temellerden başlıyor, pratik örnekler var.",
+      "authorId": "usr_001",
+      "university": "Selçuk Üniversitesi",
+      "department": "Bilgisayar Mühendisliği",
+      "course": "BIL111",
+      "year": 2024,
+      "semester": "güz",
+      "fileType": "pdf",
+      "fileSize": "3.8 MB",
+      "pageCount": 78,
+      "stats": {
+        "downloads": 345,
+        "rating": 4.6,
+        "ratingCount": 56
+      },
+      "createdAt": "2024-11-22T13:00:00Z",
+      "updatedAt": "2024-11-22T13:00:00Z"
+    },
+    {
+      "id": "acm_007",
+      "type": "note",
+      "title": "Psikolojiye Giriş - Ders Özeti",
+      "description": "psikoloji bolumu 1. sinif icin temel kavramlar. davranis, bilis, gelisim psikolojisi. sinava yonelik.",
+      "authorId": "usr_006",
+      "university": "Necmettin Erbakan Üniversitesi",
+      "department": "Psikoloji",
+      "course": "PSİ101",
+      "year": 2024,
+      "semester": "güz",
+      "fileType": "pdf",
+      "fileSize": "4.2 MB",
+      "pageCount": 56,
+      "stats": {
+        "downloads": 198,
+        "rating": 4.4,
+        "ratingCount": 34
+      },
+      "createdAt": "2024-11-08T15:00:00Z",
+      "updatedAt": "2024-11-08T15:00:00Z"
+    },
+    {
+      "id": "acm_008",
+      "type": "exam",
+      "title": "Ceza Hukuku Vize Soruları (2023-2024)",
+      "description": "Prof. Yılmaz'ın son 2 yıldaki vize soruları. Olay tipi sorular ağırlıklı.",
+      "authorId": "usr_003",
+      "university": "Selçuk Üniversitesi",
+      "department": "Hukuk Fakültesi",
+      "course": "HUK301",
+      "year": 2024,
+      "semester": "güz",
+      "fileType": "pdf",
+      "fileSize": "2.1 MB",
+      "pageCount": 23,
+      "stats": {
+        "downloads": 312,
+        "rating": 4.3,
+        "ratingCount": 45
+      },
+      "createdAt": "2024-11-12T10:00:00Z",
+      "updatedAt": "2024-11-12T10:00:00Z"
+    },
+    {
+      "id": "acm_009",
+      "type": "note",
+      "title": "İktisat 101 - Mikroekonomi Notları",
+      "description": "arz talep, esneklik, piyasa yapilari, tuketici teorisi. grafiklerle aciklamali.",
+      "authorId": "usr_018",
+      "university": "Selçuk Üniversitesi",
+      "department": "İktisat",
+      "course": "İKT101",
+      "year": 2024,
+      "semester": "güz",
+      "fileType": "pdf",
+      "fileSize": "6.4 MB",
+      "pageCount": 92,
+      "stats": {
+        "downloads": 267,
+        "rating": 4.5,
+        "ratingCount": 43
+      },
+      "createdAt": "2024-11-05T12:00:00Z",
+      "updatedAt": "2024-11-05T12:00:00Z"
+    },
+    {
+      "id": "acm_010",
+      "type": "note",
+      "title": "AutoCAD Başlangıç Rehberi",
+      "description": "Mimarlık ve inşaat öğrencileri için AutoCAD temelleri. Komutlar, kısayollar, pratik örnekler.",
+      "authorId": "usr_015",
+      "university": "Konya Teknik Üniversitesi",
+      "department": "İnşaat Mühendisliği",
+      "course": "INS201",
+      "year": 2024,
+      "semester": "güz",
+      "fileType": "pdf",
+      "fileSize": "8.9 MB",
+      "pageCount": 67,
+      "stats": {
+        "downloads": 423,
+        "rating": 4.7,
+        "ratingCount": 67
+      },
+      "createdAt": "2024-11-01T09:00:00Z",
+      "updatedAt": "2024-11-01T09:00:00Z"
+    }
+  ]
+}

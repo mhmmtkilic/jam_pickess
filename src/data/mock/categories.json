@@ -1,0 +1,35 @@
+{
+  "categories": {
+    "topic": [
+      { "id": "akademik", "name": "akademik", "icon": "book", "description": "ders notlari, hoca rehberleri, sinav tuyolari", "color": "#3b82f6" },
+      { "id": "sosyal_yasam", "name": "sosyal yasam", "icon": "coffee", "description": "kafeler, restoranlar, etkinlikler", "color": "#f59e0b" },
+      { "id": "barinma", "name": "barinma", "icon": "home", "description": "yurtlar, kiralik evler, ulasim", "color": "#10b981" },
+      { "id": "kariyer", "name": "kariyer", "icon": "briefcase", "description": "stajlar, part-time isler, burslar", "color": "#8b5cf6" },
+      { "id": "konya_kesif", "name": "konya kesif", "icon": "map", "description": "turistik yerler, yerel lezzetler", "color": "#ef4444" }
+    ],
+    "job": [
+      { "id": "tutor", "name": "ozel ders", "icon": "book", "color": "#3b82f6" },
+      { "id": "roommate", "name": "ev arkadasi", "icon": "home", "color": "#10b981" },
+      { "id": "internship", "name": "staj", "icon": "briefcase", "color": "#8b5cf6" },
+      { "id": "parttime", "name": "part-time", "icon": "clock", "color": "#f59e0b" },
+      { "id": "freelance", "name": "freelance", "icon": "laptop", "color": "#06b6d4" },
+      { "id": "sale", "name": "satilik", "icon": "tag", "color": "#ef4444" }
+    ],
+    "venue": [
+      { "id": "kafe", "name": "kafe", "icon": "coffee", "color": "#f59e0b" },
+      { "id": "calisma_kafesi", "name": "calisma kafesi", "icon": "book", "color": "#8b5cf6" },
+      { "id": "kutuphane", "name": "kutuphane", "icon": "library", "color": "#3b82f6" },
+      { "id": "lokanta", "name": "lokanta", "icon": "utensils", "color": "#ef4444" }
+    ],
+    "event": [
+      { "id": "kultur", "name": "kultur", "icon": "theater", "color": "#8b5cf6" },
+      { "id": "teknoloji", "name": "teknoloji", "icon": "laptop", "color": "#3b82f6" },
+      { "id": "kariyer", "name": "kariyer", "icon": "briefcase", "color": "#10b981" },
+      { "id": "girisimcilik", "name": "girisimcilik", "icon": "rocket", "color": "#f59e0b" }
+    ],
+    "place": [
+      { "id": "tarihi", "name": "tarihi", "icon": "landmark", "color": "#f59e0b" },
+      { "id": "doga", "name": "doga", "icon": "tree", "color": "#10b981" }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "venueReviews": [
+    {
+      "id": "vr_001",
+      "venueId": "ven_001",
+      "authorId": "usr_002",
+      "rating": 4,
+      "content": "Geçtim oturdum 3 saat çalıştım. WiFi iyi, prizler çok değil ama bulursun bi tane. Amerikano 90TL olmuş ama mecburen alıyosun.",
+      "pros": ["WiFi hızlı", "Ortam güzel"],
+      "cons": ["Priz az", "Pahalı"],
+      "visitDate": "2024-11-25",
+      "createdAt": "2024-11-26T10:00:00Z"
+    },
+    {
+      "id": "vr_002",
+      "venueId": "ven_001",
+      "authorId": "usr_013",
+      "rating": 3,
+      "content": "hafta sonu gitmeyin cok kalabalik. masa bulmak zor. hafta ici sabah saatleri ideal.",
+      "pros": ["Merkezi konum"],
+      "cons": ["Kalabalık", "Gürültülü"],
+      "visitDate": "2024-11-20",
+      "createdAt": "2024-11-21T14:00:00Z"
+    },
+    {
+      "id": "vr_003",
+      "venueId": "ven_002",
+      "authorId": "usr_005",
+      "rating": 5,
+      "content": "Çalışmak için en iyi yer. Sessiz, temiz, priz bolluğu var. Öğrenci indirimi de güzel. Tek sıkıntı 22:00'da kapanıyor.",
+      "pros": ["Sessiz", "Priz bol", "İndirim var"],
+      "cons": ["Erken kapanıyor"],
+      "visitDate": "2024-11-28",
+      "createdAt": "2024-11-29T09:00:00Z"
+    },
+    {
+      "id": "vr_004",
+      "venueId": "ven_003",
+      "authorId": "usr_008",
+      "rating": 4,
+      "content": "Sınav döneminde kurtarıcı. Gece 2'ye kadar açık. Ama sabah 7'de gelmen lazım yer bulmak için. Klima bazen sorun oluyo.",
+      "pros": ["Ücretsiz", "Geç saate kadar açık"],
+      "cons": ["Çok kalabalık", "Klima sorunu"],
+      "visitDate": "2024-11-15",
+      "createdAt": "2024-11-16T12:00:00Z"
+    },
+    {
+      "id": "vr_005",
+      "venueId": "ven_003",
+      "authorId": "usr_017",
+      "rating": 4,
+      "content": "Alt kattaki sessiz çalışma alanı çok iyi. Üst katta grup çalışması yapılabilir. Kantin pahalı, yanında yiyecek getir.",
+      "pros": ["Sessiz alan var", "Grup çalışma alanı"],
+      "cons": ["Kantin pahalı"],
+      "visitDate": "2024-11-22",
+      "createdAt": "2024-11-23T16:00:00Z"
+    },
+    {
+      "id": "vr_006",
+      "venueId": "ven_004",
+      "authorId": "usr_009",
+      "rating": 5,
+      "content": "Final haftası hayat kurtardı. Gece 3'te bile açık. Kahveler güzel ama pahalı. Prizler yeterli.",
+      "pros": ["24 saat açık", "Priz yeterli"],
+      "cons": ["Pahalı"],
+      "visitDate": "2024-11-27",
+      "createdAt": "2024-11-28T02:00:00Z"
+    },
+    {
+      "id": "vr_007",
+      "venueId": "ven_005",
+      "authorId": "usr_004",
+      "rating": 5,
+      "content": "En iyi tirit burada. Etli ekmek de çok güzel. Fiyatlar yüksek ama lezzet garantili. Öğle saati kalabalık.",
+      "pros": ["Lezzetli", "Porsiyon büyük"],
+      "cons": ["Pahalı", "Kalabalık"],
+      "visitDate": "2024-11-24",
+      "createdAt": "2024-11-25T13:00:00Z"
+    },
+    {
+      "id": "vr_008",
+      "venueId": "ven_006",
+      "authorId": "usr_013",
+      "rating": 4,
+      "content": "Etli ekmek için en iyi adres. Kuyruk var ama değer. Son zamanlarda fiyatlar arttı biraz.",
+      "pros": ["Meşhur", "Lezzetli"],
+      "cons": ["Kuyruk var", "Fiyatlar arttı"],
+      "visitDate": "2024-11-20",
+      "createdAt": "2024-11-21T18:00:00Z"
+    },
+    {
+      "id": "vr_009",
+      "venueId": "ven_007",
+      "authorId": "usr_002",
+      "rating": 4,
+      "content": "ogrenci butcesine uygun konya yemekleri. etli ekmek hacı şükrüye gore daha uygun. porsiyon doyurucu.",
+      "pros": ["Uygun fiyat", "Doyurucu"],
+      "cons": ["Ortam sade"],
+      "visitDate": "2024-11-18",
+      "createdAt": "2024-11-19T14:00:00Z"
+    },
+    {
+      "id": "vr_010",
+      "venueId": "ven_008",
+      "authorId": "usr_001",
+      "rating": 5,
+      "content": "Yazılımcılar için mükemmel. İnternet çok hızlı, toplantı odası var. Aylık üyelik öğrenci indirimiyle 400 TL.",
+      "pros": ["Hızlı internet", "Toplantı odası", "Öğrenci indirimi"],
+      "cons": ["Biraz pahalı"],
+      "visitDate": "2024-11-26",
+      "createdAt": "2024-11-27T10:00:00Z"
+    },
+    {
+      "id": "vr_011",
+      "venueId": "ven_009",
+      "authorId": "usr_007",
+      "rating": 3,
+      "content": "en ucuz secenk ama kalite degisken. bazen cok guzel bazen kotu. 25tlye doyuyosun ama",
+      "pros": ["Çok ucuz", "Doyurucu"],
+      "cons": ["Kalite değişken", "Kuyruk var"],
+      "visitDate": "2024-11-22",
+      "createdAt": "2024-11-23T13:00:00Z"
+    },
+    {
+      "id": "vr_012",
+      "venueId": "ven_010",
+      "authorId": "usr_006",
+      "rating": 4,
+      "content": "Çok sevimli bir yer. Kahveleri güzel, tatlıları ev yapımı. Hafta sonu kalabalık ama hafta içi rahat.",
+      "pros": ["Güzel ortam", "Ev yapımı tatlı"],
+      "cons": ["Hafta sonu kalabalık"],
+      "visitDate": "2024-11-24",
+      "createdAt": "2024-11-25T16:00:00Z"
+    }
+  ]
+}

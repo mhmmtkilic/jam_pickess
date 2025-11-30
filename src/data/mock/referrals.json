@@ -1,0 +1,67 @@
+{
+  "referrals": [
+    {
+      "id": "ref_001",
+      "referrerId": "usr_001",
+      "referredUserId": "usr_007",
+      "code": "SANSEN42",
+      "status": "completed",
+      "rewardClaimed": true,
+      "rewardAmount": 100,
+      "createdAt": "2024-10-01T10:00:00Z"
+    },
+    {
+      "id": "ref_002",
+      "referrerId": "usr_003",
+      "referredUserId": "usr_010",
+      "code": "HUKUKCU-MERT",
+      "status": "completed",
+      "rewardClaimed": true,
+      "rewardAmount": 100,
+      "createdAt": "2024-06-15T14:00:00Z"
+    },
+    {
+      "id": "ref_003",
+      "referrerId": "usr_001",
+      "referredUserId": "usr_009",
+      "code": "SANSEN42",
+      "status": "completed",
+      "rewardClaimed": true,
+      "rewardAmount": 100,
+      "createdAt": "2024-03-20T12:00:00Z"
+    },
+    {
+      "id": "ref_004",
+      "referrerId": "usr_005",
+      "referredUserId": null,
+      "code": "YAZILIMCI-OSMAN",
+      "status": "pending",
+      "rewardClaimed": false,
+      "rewardAmount": 100,
+      "createdAt": "2024-11-01T00:00:00Z"
+    }
+  ],
+  "userReferralStats": [
+    {
+      "userId": "usr_001",
+      "referralCode": "SANSEN42",
+      "referralLink": "https://konyagenc.wiki/kayit?ref=SANSEN42",
+      "totalInvited": 8,
+      "totalEarnedCoins": 800
+    },
+    {
+      "userId": "usr_005",
+      "referralCode": "YAZILIMCI-OSMAN",
+      "referralLink": "https://konyagenc.wiki/kayit?ref=YAZILIMCI-OSMAN",
+      "totalInvited": 2,
+      "totalEarnedCoins": 200
+    },
+    {
+      "userId": "usr_003",
+      "referralCode": "HUKUKCU-MERT",
+      "referralLink": "https://konyagenc.wiki/kayit?ref=HUKUKCU-MERT",
+      "totalInvited": 3,
+      "totalEarnedCoins": 300
+    }
+  ]
+}

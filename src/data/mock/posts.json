@@ -1,0 +1,614 @@
+{
+  "posts": [
+    {
+      "id": "pst_001",
+      "type": "post",
+      "authorId": "usr_009",
+      "title": "Staj başvurularında dikkat edilmesi gerekenler",
+      "content": "Arkadaşlar bu sene 30+ başvuru yaptım, çoğu red geldi. Ama son 3 ayda öğrendiğim şeyleri paylaşayım. CV'de proje olmadan başvurmayın, GitHub linki şart. Kapak mektubunu her şirket için ayrı yazın, genel şeyler yazmayın. LinkedIn'de connect atın HR'lara utanmayın.",
+      "images": [],
+      "categories": ["Kariyer", "Staj"],
+      "stats": {
+        "upvotes": 89,
+        "downvotes": 3,
+        "helpfulCount": 67,
+        "commentCount": 5,
+        "shareCount": 12,
+        "bookmarkCount": 45,
+        "viewCount": 1234
+      },
+      "createdAt": "2024-11-30T10:00:00Z",
+      "updatedAt": "2024-11-30T10:00:00Z"
+    },
+    {
+      "id": "pst_002",
+      "type": "wiki",
+      "authorId": "usr_002",
+      "content": "Geçtim oturdum 3 saat çalıştım. WiFi iyi, prizler çok değil ama bulursun bi tane. Amerikano 90TL olmuş ama mecburen alıyosun. Masalar küçük, grup çalışmaya uygun değil, tek otur.",
+      "topicLink": {
+        "icon": "venue",
+        "text": "Kafeist Meram",
+        "topicId": "ven_001"
+      },
+      "tags": ["kafe", "çalışma", "meram"],
+      "stats": {
+        "upvotes": 45,
+        "downvotes": 8,
+        "commentCount": 1,
+        "shareCount": 5,
+        "bookmarkCount": 23,
+        "viewCount": 567
+      },
+      "createdAt": "2024-11-30T09:30:00Z",
+      "updatedAt": "2024-11-30T09:30:00Z"
+    },
+    {
+      "id": "pst_003",
+      "type": "post",
+      "authorId": "usr_005",
+      "title": "React mı Vue mu 2024",
+      "content": "şu an freelance iş arıyorum ikisini de biliyorum ama hangisine yogunlasmam lazım sizce? iş ilanlarına bakıyorum react daha çok ama vue projeler daha rahat geliyo. tecrübeli arkadaşlar ne der",
+      "images": [],
+      "categories": ["Yazılım", "Kariyer"],
+      "stats": {
+        "upvotes": 67,
+        "downvotes": 12,
+        "helpfulCount": 45,
+        "commentCount": 3,
+        "shareCount": 8,
+        "bookmarkCount": 34,
+        "viewCount": 2345
+      },
+      "createdAt": "2024-11-30T08:00:00Z",
+      "updatedAt": "2024-11-30T08:00:00Z"
+    },
+    {
+      "id": "pst_004",
+      "type": "post",
+      "authorId": "usr_003",
+      "title": "Hukuk sınavlarına nasıl çalışmalı",
+      "content": "3 yıldır hukuk okuyorum, bir şeyler öğrendim. Kanun metnini ezberlemek yerine mantığını anlayın. Örnek davalarla çalışın. Arkadaşlarla tartışın, o kadar faydalı ki anlatamam. Son hafta değil dönem boyunca çalışın ama zaten herkes bunu bilip yapmıyo.",
+      "images": [],
+      "categories": ["Eğitim", "Hukuk"],
+      "stats": {
+        "upvotes": 156,
+        "downvotes": 5,
+        "helpfulCount": 134,
+        "commentCount": 2,
+        "shareCount": 23,
+        "bookmarkCount": 89,
+        "viewCount": 3456
+      },
+      "createdAt": "2024-11-29T18:00:00Z",
+      "updatedAt": "2024-11-29T18:00:00Z"
+    },
+    {
+      "id": "pst_005",
+      "type": "wiki",
+      "authorId": "usr_004",
+      "content": "Mevlana Müzesi hakkında bilmeniz gerekenler: Hafta içi gidin, hafta sonu çok kalabalık. İç kısımda fotoğraf yasak. Giriş ücreti öğrenci 50TL. Yanında karatay medresesi de gez yürüme mesafesinde.",
+      "topicLink": {
+        "icon": "venue",
+        "text": "Mevlana Müzesi",
+        "topicId": "plc_001"
+      },
+      "tags": ["müze", "mevlana", "tarihi"],
+      "stats": {
+        "upvotes": 234,
+        "downvotes": 4,
+        "commentCount": 0,
+        "shareCount": 67,
+        "bookmarkCount": 123,
+        "viewCount": 5678
+      },
+      "createdAt": "2024-11-29T14:00:00Z",
+      "updatedAt": "2024-11-29T14:00:00Z"
+    },
+    {
+      "id": "pst_006",
+      "type": "post",
+      "authorId": "usr_011",
+      "title": "Mimarlık portfolyo hazırlama tavsiyeleri",
+      "content": "Portfolyo hazırlarken dikkat edin: En iyi 5-6 projenizi koyun, 20 tane koymayın. Her projenin hikayesini anlatın. Çizimler temiz ve okunabilir olsun. Digital portfolio için Behance veya kendi siteniz olsun. Baskı kalitesine dikkat edin fiziksel versiyonda.",
+      "images": [],
+      "categories": ["Mimarlık", "Kariyer"],
+      "stats": {
+        "upvotes": 78,
+        "downvotes": 2,
+        "helpfulCount": 65,
+        "commentCount": 2,
+        "shareCount": 15,
+        "bookmarkCount": 56,
+        "viewCount": 1890
+      },
+      "createdAt": "2024-11-29T12:00:00Z",
+      "updatedAt": "2024-11-29T12:00:00Z"
+    },
+    {
+      "id": "pst_007",
+      "type": "post",
+      "authorId": "usr_013",
+      "title": "Konya'da gezilecek yerler - kapsamlı rehber",
+      "content": "Konya'ya yeni gelen arkadaşlar için kapsamlı bir rehber hazırladım. Tarihi yerler: Mevlana Müzesi, Alaaddin Tepesi, Karatay Medresesi, İnce Minare. Doğa: Kelebek Bahçesi, Japon Parkı. Yeme-içme: Etli ekmek mutlaka yiyin, Tiritçi Mithat meşhur. Alışveriş: Kent Plaza, M1 AVM.",
+      "images": [],
+      "categories": ["Gezi", "Konya"],
+      "stats": {
+        "upvotes": 312,
+        "downvotes": 8,
+        "helpfulCount": 287,
+        "commentCount": 3,
+        "shareCount": 156,
+        "bookmarkCount": 234,
+        "viewCount": 8765
+      },
+      "createdAt": "2024-11-28T16:00:00Z",
+      "updatedAt": "2024-11-28T16:00:00Z"
+    },
+    {
+      "id": "pst_008",
+      "type": "wiki",
+      "authorId": "usr_017",
+      "content": "Selçuk Üniversitesi Merkez Kütüphanesi deneyimim: Sınav döneminde sabah 7'de git yoksa yer bulamazsın. Kliması bazen bozuk oluyor, hırka al. Alt katta sessiz çalışma alanı var, üst katta grup çalışması yapılabilir. Kantin pahalı, yanında yiyecek getir.",
+      "topicLink": {
+        "icon": "venue",
+        "text": "Selçuk Merkez Kütüphane",
+        "topicId": "ven_003"
+      },
+      "tags": ["kütüphane", "selçuk", "çalışma"],
+      "stats": {
+        "upvotes": 189,
+        "downvotes": 6,
+        "commentCount": 0,
+        "shareCount": 34,
+        "bookmarkCount": 145,
+        "viewCount": 4532
+      },
+      "createdAt": "2024-11-28T11:00:00Z",
+      "updatedAt": "2024-11-28T11:00:00Z"
+    },
+    {
+      "id": "pst_009",
+      "type": "post",
+      "authorId": "usr_008",
+      "title": "EEM201 Devre Analizi - Sınava hazırlık notları",
+      "content": "arkadaslar final icin onemli konular: KVL KCL, Thevenin-Norton, AC devre analizi. Hocanin sorulari genelde orneklerden cikiyo ama sayilari degistiriyo. Formul kagidi veriyo o yuzden ezbere gerek yok mantigi anlyin. Cikmis sorulari cozun mutlaka.",
+      "images": [],
+      "categories": ["Eğitim", "Mühendislik"],
+      "stats": {
+        "upvotes": 98,
+        "downvotes": 3,
+        "helpfulCount": 87,
+        "commentCount": 2,
+        "shareCount": 28,
+        "bookmarkCount": 78,
+        "viewCount": 2156
+      },
+      "createdAt": "2024-11-27T20:00:00Z",
+      "updatedAt": "2024-11-27T20:00:00Z"
+    },
+    {
+      "id": "pst_010",
+      "type": "post",
+      "authorId": "usr_012",
+      "title": "Çocuk edebiyatı kitap önerileri",
+      "content": "Türkçe Öğretmenliği okuyorum ve çocuk edebiyatı dersi aldım. Herkesin okuması gereken kitaplar: Küçük Prens, Şeker Portakalı, Pollyanna, Uçurtma Avcısı (gençler için). Yerli yazarlardan: Gülten Dayıoğlu, Aytül Akal. Çocuklarla çalışacaklar için altın değerinde kaynaklar.",
+      "images": [],
+      "categories": ["Eğitim", "Kitap"],
+      "stats": {
+        "upvotes": 67,
+        "downvotes": 1,
+        "helpfulCount": 58,
+        "commentCount": 0,
+        "shareCount": 12,
+        "bookmarkCount": 45,
+        "viewCount": 1234
+      },
+      "createdAt": "2024-11-27T15:00:00Z",
+      "updatedAt": "2024-11-27T15:00:00Z"
+    },
+    {
+      "id": "pst_011",
+      "type": "post",
+      "authorId": "usr_015",
+      "title": "inşaat mühendisliği staj deneyimlerim",
+      "content": "bu yaz bi insaat firmasinda staj yaptim paylasayim. ilk hafta sadece seyre gittim ama sonra cizim yapmaya basladim. autocad bilmek sart arkadslar. santiye ortami zor sicak toz falan ama cok sey ogrendim. cv de cok ise yaradi staj",
+      "images": [],
+      "categories": ["Kariyer", "Mühendislik"],
+      "stats": {
+        "upvotes": 45,
+        "downvotes": 2,
+        "helpfulCount": 38,
+        "commentCount": 0,
+        "shareCount": 8,
+        "bookmarkCount": 34,
+        "viewCount": 876
+      },
+      "createdAt": "2024-11-27T10:00:00Z",
+      "updatedAt": "2024-11-27T10:00:00Z"
+    },
+    {
+      "id": "pst_012",
+      "type": "wiki",
+      "authorId": "usr_019",
+      "content": "Konya mutfağından denemeniz gereken yemekler: Etli ekmek (Konya'nın pizzası), Bamya çorbası, Fırın kebabı, Höşmerim (tatlı). Nerede yenir? Etli ekmek için Hacı Şükrü veya Metropol, tatlı için Şems-i Tebrizi. Fiyatlar öğrenci bütçesine uygun değil ama ara sıra şımartın kendinizi.",
+      "topicLink": {
+        "icon": "venue",
+        "text": "Konya Mutfağı",
+        "topicId": "tpc_010"
+      },
+      "tags": ["yemek", "konya", "restoran"],
+      "stats": {
+        "upvotes": 178,
+        "downvotes": 5,
+        "commentCount": 0,
+        "shareCount": 45,
+        "bookmarkCount": 123,
+        "viewCount": 3456
+      },
+      "createdAt": "2024-11-26T18:00:00Z",
+      "updatedAt": "2024-11-26T18:00:00Z"
+    },
+    {
+      "id": "pst_013",
+      "type": "post",
+      "authorId": "usr_018",
+      "title": "Yatırım yapmaya nereden başlamalı",
+      "content": "iktisat okuyan biri olarak yatirim konusunda bildiklerimi paylasayim. once acil durum fonu olusturun 3-6 aylik gideriniz kadar. sonra bist fonlarina bakin temettü veren hisseler olabilir. kripto cok riskli para kaybetmeyi goze almadan girmeyin. birikim aliskanligi kazanin en onemlisi.",
+      "images": [],
+      "categories": ["Finans", "Eğitim"],
+      "stats": {
+        "upvotes": 134,
+        "downvotes": 18,
+        "helpfulCount": 98,
+        "commentCount": 2,
+        "shareCount": 34,
+        "bookmarkCount": 89,
+        "viewCount": 4567
+      },
+      "createdAt": "2024-11-26T14:00:00Z",
+      "updatedAt": "2024-11-26T14:00:00Z"
+    },
+    {
+      "id": "pst_014",
+      "type": "post",
+      "authorId": "usr_006",
+      "title": "Psikoloji bölümü hakkında merak edilenler",
+      "content": "Psikoloji okumak isteyenler için: Bol bol okuma var, buna hazır olun. İngilizce şart çünkü kaynakların çoğu İngilizce. Klinik psikoloji için yüksek lisans yapmanız gerekiyor. İş imkanları: Okullarda rehber öğretmen, özel sektörde İK, klinik için yüksek lisans sonrası. Güzel bölüm tavsiye ederim.",
+      "images": [],
+      "categories": ["Eğitim", "Psikoloji"],
+      "stats": {
+        "upvotes": 89,
+        "downvotes": 4,
+        "helpfulCount": 76,
+        "commentCount": 0,
+        "shareCount": 23,
+        "bookmarkCount": 67,
+        "viewCount": 2345
+      },
+      "createdAt": "2024-11-26T10:00:00Z",
+      "updatedAt": "2024-11-26T10:00:00Z"
+    },
+    {
+      "id": "pst_015",
+      "type": "post",
+      "authorId": "usr_001",
+      "title": "Backend Developer olarak iş bulma rehberi",
+      "content": "4 yıldır yazılım sektöründeyim, bildiklerimi paylaşayım. Önce bir dil seçin ve derinleşin (Python, Java, Node.js). Database bilgisi şart, SQL mutlaka öğrenin. REST API tasarımını iyi bilin. Git kullanımı olmazsa olmaz. Portfolio projeleriniz olsun, GitHub'ı aktif tutun. Leetcode çözün mülakatlara hazırlık için.",
+      "images": [],
+      "categories": ["Yazılım", "Kariyer"],
+      "stats": {
+        "upvotes": 267,
+        "downvotes": 8,
+        "helpfulCount": 234,
+        "commentCount": 2,
+        "shareCount": 89,
+        "bookmarkCount": 178,
+        "viewCount": 7890
+      },
+      "createdAt": "2024-11-25T16:00:00Z",
+      "updatedAt": "2024-11-25T16:00:00Z"
+    },
+    {
+      "id": "pst_016",
+      "type": "post",
+      "authorId": "usr_016",
+      "title": "Grafik tasarım için ücretsiz kaynaklar",
+      "content": "tasarim ogrenmek isteyenler icin ucretsiz kaynaklar: Canva (basit tasarimlar icin), Figma (ui/ux), GIMP (photoshop alternatifi). Youtube'da The Futur kanalini tavsiye ederim. Font icin Google Fonts, ikon icin Flaticon. Renk paleti icin Coolors.co. Pratik yapin cok pratik.",
+      "images": [],
+      "categories": ["Tasarım", "Eğitim"],
+      "stats": {
+        "upvotes": 145,
+        "downvotes": 3,
+        "helpfulCount": 128,
+        "commentCount": 2,
+        "shareCount": 67,
+        "bookmarkCount": 134,
+        "viewCount": 3456
+      },
+      "createdAt": "2024-11-25T12:00:00Z",
+      "updatedAt": "2024-11-25T12:00:00Z"
+    },
+    {
+      "id": "pst_017",
+      "type": "wiki",
+      "authorId": "usr_013",
+      "content": "Alaaddin Tepesi ziyaret rehberi: Şehrin tam merkezinde, tramvayla Alaaddin durağında inin. Selçuklu döneminden kalma cami var. Tepede oturup şehir manzarası izleyebilirsiniz. Gün batımı çok güzel oluyor. Piknik yapanlar var ama çöplerinizi toplamayı unutmayın.",
+      "topicLink": {
+        "icon": "venue",
+        "text": "Alaaddin Tepesi",
+        "topicId": "plc_002"
+      },
+      "tags": ["tarihi", "manzara", "konya"],
+      "stats": {
+        "upvotes": 123,
+        "downvotes": 2,
+        "commentCount": 0,
+        "shareCount": 28,
+        "bookmarkCount": 89,
+        "viewCount": 2345
+      },
+      "createdAt": "2024-11-24T18:00:00Z",
+      "updatedAt": "2024-11-24T18:00:00Z"
+    },
+    {
+      "id": "pst_018",
+      "type": "post",
+      "authorId": "usr_014",
+      "title": "makine muh ilk yıl tecrübelerim",
+      "content": "1. sinifta ne ogrendim: mat1 mat2 zor, fizik de oyle. cizim dersi eglenceli ama uzun suruyo. laboratuvar dersleri ilginc. arkadaslarla ders calis yoksa zorlanirsin. hocalara soru sormaktan cekinme yardimci oluyolar genelde.",
+      "images": [],
+      "categories": ["Eğitim", "Mühendislik"],
+      "stats": {
+        "upvotes": 34,
+        "downvotes": 1,
+        "helpfulCount": 28,
+        "commentCount": 0,
+        "shareCount": 5,
+        "bookmarkCount": 23,
+        "viewCount": 567
+      },
+      "createdAt": "2024-11-24T14:00:00Z",
+      "updatedAt": "2024-11-24T14:00:00Z"
+    },
+    {
+      "id": "pst_019",
+      "type": "post",
+      "authorId": "usr_007",
+      "title": "Yeni geldim Konya'ya tavsiye lazım",
+      "content": "selam arkadaslar bu sene basliyorum ktu mimarlik. konya hakkinda hic bilgim yok nerden baslasam bilemedim. ev ariyorum nasil bulabilirim? tramvay karti nasil aliniyo? kampus yakininda kafe var mi ders calisicak? yardimci olursaniz sevinirim",
+      "images": [],
+      "categories": ["Konya", "Yardım"],
+      "stats": {
+        "upvotes": 23,
+        "downvotes": 0,
+        "helpfulCount": 18,
+        "commentCount": 3,
+        "shareCount": 2,
+        "bookmarkCount": 12,
+        "viewCount": 345
+      },
+      "createdAt": "2024-11-24T10:00:00Z",
+      "updatedAt": "2024-11-24T10:00:00Z"
+    },
+    {
+      "id": "pst_020",
+      "type": "post",
+      "authorId": "usr_020",
+      "title": "yazilim ogrenmek istiyorum nerden basliyim",
+      "content": "merhaba ben 1. sinif bilgisayar muhendisligi okuyorum ama dersler cok teorik kaliyo kendim bisey ogrenmeliyim. python mi javascript mi hangisiyle baslasam? youtube da videolar var ama hangisi iyi bilemedim. tavsiye verebilir misiniz",
+      "images": [],
+      "categories": ["Yazılım", "Eğitim"],
+      "stats": {
+        "upvotes": 18,
+        "downvotes": 2,
+        "helpfulCount": 12,
+        "commentCount": 3,
+        "shareCount": 3,
+        "bookmarkCount": 15,
+        "viewCount": 234
+      },
+      "createdAt": "2024-11-23T20:00:00Z",
+      "updatedAt": "2024-11-23T20:00:00Z"
+    },
+    {
+      "id": "pst_021",
+      "type": "post",
+      "authorId": "usr_001",
+      "title": "Node.js ile REST API geliştirme rehberi",
+      "content": "Backend geliştirme öğrenmek isteyenler için Node.js + Express.js ile başlamak çok mantıklı. Önce temel HTTP metodlarını öğrenin (GET, POST, PUT, DELETE). Middleware kavramını anlayın. JWT ile authentication yapın. MongoDB veya PostgreSQL bağlantısı kurun. Swagger ile dokümantasyon oluşturun.",
+      "images": [],
+      "categories": ["Yazılım", "Eğitim"],
+      "stats": {
+        "upvotes": 189,
+        "downvotes": 5,
+        "helpfulCount": 167,
+        "commentCount": 0,
+        "shareCount": 56,
+        "bookmarkCount": 134,
+        "viewCount": 4567
+      },
+      "createdAt": "2024-11-22T14:00:00Z",
+      "updatedAt": "2024-11-22T14:00:00Z"
+    },
+    {
+      "id": "pst_022",
+      "type": "post",
+      "authorId": "usr_001",
+      "title": "Yazılım mülakatlarına nasıl hazırlanmalı",
+      "content": "Mülakatlara hazırlık için önerilerim: 1) Leetcode Easy sorularını çözün, 2) Sistem tasarımı temellerini öğrenin, 3) Projelerinizi iyi anlatın, 4) Şirketi araştırın, 5) STAR metoduyla davranışsal sorulara hazırlanın. En önemlisi: stres yapmayın, reddedilseniz bile deneyim kazanırsınız.",
+      "images": [],
+      "categories": ["Kariyer", "Yazılım"],
+      "stats": {
+        "upvotes": 234,
+        "downvotes": 7,
+        "helpfulCount": 198,
+        "commentCount": 0,
+        "shareCount": 78,
+        "bookmarkCount": 189,
+        "viewCount": 6234
+      },
+      "createdAt": "2024-11-20T10:00:00Z",
+      "updatedAt": "2024-11-20T10:00:00Z"
+    },
+    {
+      "id": "pst_023",
+      "type": "post",
+      "authorId": "usr_001",
+      "title": "PostgreSQL vs MongoDB - Hangisini seçmeli?",
+      "content": "Bu soruyu çok alıyorum o yüzden yazayım. PostgreSQL: İlişkisel veri, ACID compliance, karmaşık sorgular için. MongoDB: Esnek şema, hızlı prototipleme, döküman tabanlı veri için. Tavsiyem: Önce PostgreSQL öğrenin, SQL bilgisi her yerde işe yarar. Sonra MongoDB'ye bakın.",
+      "images": [],
+      "categories": ["Yazılım", "Database"],
+      "stats": {
+        "upvotes": 156,
+        "downvotes": 12,
+        "helpfulCount": 134,
+        "commentCount": 0,
+        "shareCount": 45,
+        "bookmarkCount": 123,
+        "viewCount": 3456
+      },
+      "createdAt": "2024-11-18T16:00:00Z",
+      "updatedAt": "2024-11-18T16:00:00Z"
+    },
+    {
+      "id": "pst_024",
+      "type": "post",
+      "authorId": "usr_001",
+      "title": "Clean Code yazma ipuçları",
+      "content": "Temiz kod yazmak için: 1) Anlamlı değişken isimleri kullanın, 2) Fonksiyonlar tek bir iş yapsın, 3) Yorum yazmak yerine kodu anlaşılır yapın, 4) DRY prensibine uyun, 5) Code review yapın ve yaptırın. Robert Martin'in Clean Code kitabını mutlaka okuyun.",
+      "images": [],
+      "categories": ["Yazılım", "Best Practices"],
+      "stats": {
+        "upvotes": 178,
+        "downvotes": 3,
+        "helpfulCount": 156,
+        "commentCount": 0,
+        "shareCount": 67,
+        "bookmarkCount": 145,
+        "viewCount": 4123
+      },
+      "createdAt": "2024-11-15T12:00:00Z",
+      "updatedAt": "2024-11-15T12:00:00Z"
+    },
+    {
+      "id": "pst_025",
+      "type": "post",
+      "authorId": "usr_005",
+      "title": "Frontend developer için 2024 roadmap",
+      "content": "Frontend öğrenmek isteyenler için yol haritam: HTML/CSS → JavaScript temelleri → React veya Vue → TypeScript → State Management (Redux/Zustand) → Testing (Jest/Vitest) → Next.js veya Nuxt. CSS framework olarak Tailwind çok popüler. 6-12 ayda junior seviyesine ulaşabilirsiniz.",
+      "images": [],
+      "categories": ["Yazılım", "Eğitim"],
+      "stats": {
+        "upvotes": 198,
+        "downvotes": 8,
+        "helpfulCount": 176,
+        "commentCount": 0,
+        "shareCount": 89,
+        "bookmarkCount": 167,
+        "viewCount": 5678
+      },
+      "createdAt": "2024-11-14T09:00:00Z",
+      "updatedAt": "2024-11-14T09:00:00Z"
+    },
+    {
+      "id": "pst_026",
+      "type": "post",
+      "authorId": "usr_002",
+      "title": "Konya'da öğrenci dostu restoranlar",
+      "content": "bütçe sıkıntısı çekenler için ucuz ama doyurucu mekanlar: 1) Kampüs kantini (25TL), 2) Konya Mutfağı (etli ekmek paylaşılır), 3) Bosna Hersek'teki ev yemekleri satan yerler, 4) M1 food court (öğrenci indirimi var). Döner de ucuz ama sağlıklı değil sürekli yemeyin.",
+      "images": [],
+      "categories": ["Konya", "Yemek"],
+      "stats": {
+        "upvotes": 145,
+        "downvotes": 6,
+        "helpfulCount": 123,
+        "commentCount": 0,
+        "shareCount": 45,
+        "bookmarkCount": 112,
+        "viewCount": 2890
+      },
+      "createdAt": "2024-11-12T18:00:00Z",
+      "updatedAt": "2024-11-12T18:00:00Z"
+    },
+    {
+      "id": "pst_027",
+      "type": "post",
+      "authorId": "usr_017",
+      "title": "Mevlana'yı anlamak için okunması gereken kitaplar",
+      "content": "Mevlana ve tasavvuf hakkında kaynak arayanlar için: Mesnevi (en önemli eseri), Divan-ı Kebir, Fihi Ma Fih. Modern yorumlar için Şefik Can çevirileri güzel. Başlangıç için Elif Şafak'ın Aşk romanı okunabilir ama tarihi doğruluk açısından dikkatli olun.",
+      "images": [],
+      "categories": ["Kültür", "Kitap"],
+      "stats": {
+        "upvotes": 167,
+        "downvotes": 4,
+        "helpfulCount": 145,
+        "commentCount": 0,
+        "shareCount": 56,
+        "bookmarkCount": 134,
+        "viewCount": 3456
+      },
+      "createdAt": "2024-11-10T14:00:00Z",
+      "updatedAt": "2024-11-10T14:00:00Z"
+    },
+    {
+      "id": "pst_028",
+      "type": "post",
+      "authorId": "usr_004",
+      "title": "Konya'da mimarlık öğrencisi olmak",
+      "content": "KTÜ Mimarlık hakkında merak edilenler: Atölyeler yoğun, gece çalışmaya hazır ol. Model malzemesi Kent Plaza'dan alınır. Jüri sunumları stresli ama öğretici. Şehirde çok tarihi yapı var, canlı laboratuvar gibi. Kampüs yeni, olanakar iyi. Hocalar genelde yardımcı.",
+      "images": [],
+      "categories": ["Mimarlık", "Eğitim"],
+      "stats": {
+        "upvotes": 89,
+        "downvotes": 2,
+        "helpfulCount": 78,
+        "commentCount": 0,
+        "shareCount": 23,
+        "bookmarkCount": 67,
+        "viewCount": 1567
+      },
+      "createdAt": "2024-11-08T11:00:00Z",
+      "updatedAt": "2024-11-08T11:00:00Z"
+    },
+    {
+      "id": "pst_029",
+      "type": "post",
+      "authorId": "usr_008",
+      "title": "Elektrik-Elektronik 3. sınıf dersleri hakkında",
+      "content": "3. sınıf en zor yıl EEE'de. Sinyal ve Sistemler, Kontrol Sistemleri, Güç Elektroniği aynı dönemde geliyor. Çıkmış soruları mutlaka çözün. Laboratuvar raporlarını son güne bırakmayın. Grup çalışması şart, tek başınıza çok zor. Yaz stajını da düşünmeye başlayın.",
+      "images": [],
+      "categories": ["Eğitim", "Mühendislik"],
+      "stats": {
+        "upvotes": 112,
+        "downvotes": 3,
+        "helpfulCount": 98,
+        "commentCount": 0,
+        "shareCount": 34,
+        "bookmarkCount": 89,
+        "viewCount": 2345
+      },
+      "createdAt": "2024-11-05T15:00:00Z",
+      "updatedAt": "2024-11-05T15:00:00Z"
+    },
+    {
+      "id": "pst_030",
+      "type": "post",
+      "authorId": "usr_009",
+      "title": "Girişimcilik kulübü etkinlikleri hakkında",
+      "content": "Selçuk Girişimcilik Kulübü bu dönem çok aktif. Her hafta networking etkinliği yapıyoruz. Başarılı girişimciler konuşmacı olarak geliyor. Mentor eşleştirme programımız var. Startup weekend yaklaşıyor, katılın! İş fikri olanlara inkübatör desteği veriyoruz.",
+      "images": [],
+      "categories": ["Girişimcilik", "Etkinlik"],
+      "stats": {
+        "upvotes": 78,
+        "downvotes": 1,
+        "helpfulCount": 67,
+        "commentCount": 0,
+        "shareCount": 28,
+        "bookmarkCount": 56,
+        "viewCount": 1234
+      },
+      "createdAt": "2024-11-03T10:00:00Z",
+      "updatedAt": "2024-11-03T10:00:00Z"
+    }
+  ]
+}

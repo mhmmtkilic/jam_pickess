@@ -1,0 +1,45 @@
+{
+  "leaderboard": {
+    "allTime": [
+      { "userId": "usr_001", "rank": 1, "points": 65000, "change": 0 },
+      { "userId": "usr_017", "rank": 2, "points": 52000, "change": 1 },
+      { "userId": "usr_004", "rank": 3, "points": 42000, "change": -1 },
+      { "userId": "usr_003", "rank": 4, "points": 38500, "change": 0 },
+      { "userId": "usr_013", "rank": 5, "points": 28500, "change": 2 },
+      { "userId": "usr_005", "rank": 6, "points": 8750, "change": -1 },
+      { "userId": "usr_015", "rank": 7, "points": 7200, "change": 1 },
+      { "userId": "usr_011", "rank": 8, "points": 6800, "change": -2 },
+      { "userId": "usr_008", "rank": 9, "points": 5600, "change": 0 },
+      { "userId": "usr_018", "rank": 10, "points": 4850, "change": 3 },
+      { "userId": "usr_009", "rank": 11, "points": 4200, "change": -1 },
+      { "userId": "usr_019", "rank": 12, "points": 2340, "change": 0 },
+      { "userId": "usr_006", "rank": 13, "points": 2100, "change": 1 },
+      { "userId": "usr_012", "rank": 14, "points": 1920, "change": -2 },
+      { "userId": "usr_002", "rank": 15, "points": 1850, "change": 0 }
+    ],
+    "thisWeek": [
+      { "userId": "usr_013", "rank": 1, "points": 450, "change": 5 },
+      { "userId": "usr_001", "rank": 2, "points": 380, "change": 0 },
+      { "userId": "usr_009", "rank": 3, "points": 320, "change": 3 },
+      { "userId": "usr_005", "rank": 4, "points": 280, "change": -2 },
+      { "userId": "usr_017", "rank": 5, "points": 250, "change": 1 },
+      { "userId": "usr_008", "rank": 6, "points": 220, "change": 0 },
+      { "userId": "usr_011", "rank": 7, "points": 190, "change": 2 },
+      { "userId": "usr_003", "rank": 8, "points": 170, "change": -3 },
+      { "userId": "usr_018", "rank": 9, "points": 150, "change": 4 },
+      { "userId": "usr_002", "rank": 10, "points": 120, "change": -1 }
+    ],
+    "thisMonth": [
+      { "userId": "usr_001", "rank": 1, "points": 1850, "change": 0 },
+      { "userId": "usr_013", "rank": 2, "points": 1620, "change": 3 },
+      { "userId": "usr_017", "rank": 3, "points": 1450, "change": -1 },
+      { "userId": "usr_005", "rank": 4, "points": 1280, "change": 1 },
+      { "userId": "usr_009", "rank": 5, "points": 1120, "change": 2 },
+      { "userId": "usr_003", "rank": 6, "points": 980, "change": -3 },
+      { "userId": "usr_011", "rank": 7, "points": 870, "change": 0 },
+      { "userId": "usr_008", "rank": 8, "points": 760, "change": 1 },
+      { "userId": "usr_018", "rank": 9, "points": 650, "change": 4 },
+      { "userId": "usr_004", "rank": 10, "points": 540, "change": -2 }
+    ]
+  }
+}

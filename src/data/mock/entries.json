@@ -1,0 +1,164 @@
+{
+  "entries": [
+    {
+      "id": "ent_001",
+      "topicId": "tpc_001",
+      "authorId": "usr_002",
+      "content": "hukuk fakultesi icin onemli bi sey soyliyim: devamsizlik siniri %30 ama bazi hocalar 2 kez bile yoklama aliyo dikkat edin. mesela ceza hukuku hocasi cok katı bu konuda.",
+      "stats": { "upvotes": 45, "downvotes": 3 },
+      "createdAt": "2024-11-28T10:00:00Z"
+    },
+    {
+      "id": "ent_002",
+      "topicId": "tpc_001",
+      "authorId": "usr_017",
+      "content": "Kütüphane sınav döneminde 7/24 açık ama yer bulmak için sabah 7'de git. Akşam 10'dan sonra boşalıyor biraz ama o saatte kim çalışıyo ki.",
+      "stats": { "upvotes": 67, "downvotes": 2 },
+      "createdAt": "2024-11-27T16:00:00Z"
+    },
+    {
+      "id": "ent_003",
+      "topicId": "tpc_001",
+      "authorId": "usr_003",
+      "content": "Medeni Hukuk için kesinlikle Oğuzman-Barlas okuyun. Hoca kitaptan soruyor zaten. Özet kitaplar yetmez bu ders için.",
+      "stats": { "upvotes": 89, "downvotes": 5 },
+      "createdAt": "2024-11-26T14:00:00Z"
+    },
+    {
+      "id": "ent_004",
+      "topicId": "tpc_002",
+      "authorId": "usr_013",
+      "content": "Konya'da ulaşım tramvayla çözülüyor. Konya Kart al AVM'lerden, öğrenci kartı için öğrenci belgen lazım. Tek biniş 7.5 TL ama kartla 5 TL.",
+      "stats": { "upvotes": 156, "downvotes": 4 },
+      "createdAt": "2024-11-29T12:00:00Z"
+    },
+    {
+      "id": "ent_005",
+      "topicId": "tpc_002",
+      "authorId": "usr_002",
+      "content": "tramvay gece 23.30 son sefer dikkat edin. o saatten sonra taksi ya da yürü. uber yok burada",
+      "stats": { "upvotes": 78, "downvotes": 1 },
+      "createdAt": "2024-11-28T18:00:00Z"
+    },
+    {
+      "id": "ent_006",
+      "topicId": "tpc_002",
+      "authorId": "usr_004",
+      "content": "Kiralar için Bosna Hersek ve Selçuklu tarafına bakın. Kampüse yakın, fiyatlar 3500-5000 arası. Meram biraz pahalı ama daha güzel mahalleler var.",
+      "stats": { "upvotes": 123, "downvotes": 8 },
+      "createdAt": "2024-11-27T10:00:00Z"
+    },
+    {
+      "id": "ent_007",
+      "topicId": "tpc_003",
+      "authorId": "usr_008",
+      "content": "devre analizi dersi icin cikmis sorulari mutlaka cozun. hoca genelde ayni tip sorular soruyo sadece degerleri degistiriyo. kvl kcl mantigi anlayin yeter.",
+      "stats": { "upvotes": 67, "downvotes": 2 },
+      "createdAt": "2024-11-26T20:00:00Z"
+    },
+    {
+      "id": "ent_008",
+      "topicId": "tpc_003",
+      "authorId": "usr_005",
+      "content": "AC devre analizi zor geliyor çoğu kişiye. Complex sayıları iyi öğrenin, fazör diyagramları çizmeyi bilin. Youtube'da Michel van Biezen kanalına bakın İngilizce ama çok iyi anlatıyo.",
+      "stats": { "upvotes": 89, "downvotes": 3 },
+      "createdAt": "2024-11-25T14:00:00Z"
+    },
+    {
+      "id": "ent_009",
+      "topicId": "tpc_004",
+      "authorId": "usr_011",
+      "content": "Mimarlık projelerinde en önemli şey: kavramı net belirle ve her kararını kavramla ilişkilendir. Jüri bunu arıyor. Çizim güzel olsa da kavram zayıfsa düşük not alırsın.",
+      "stats": { "upvotes": 112, "downvotes": 4 },
+      "createdAt": "2024-11-29T16:00:00Z"
+    },
+    {
+      "id": "ent_010",
+      "topicId": "tpc_004",
+      "authorId": "usr_004",
+      "content": "Model yaparken karton yerine köpük levha kullanın, daha temiz duruyor. Kent Plaza'daki kırtasiyeden alabilirsiniz. Maket bıçağı da şart.",
+      "stats": { "upvotes": 78, "downvotes": 2 },
+      "createdAt": "2024-11-28T12:00:00Z"
+    },
+    {
+      "id": "ent_011",
+      "topicId": "tpc_005",
+      "authorId": "usr_002",
+      "content": "calisma kafeleri icin onerim: kafeist ucuz ama kalabalik, cafe study sessiz ama erken kapaniyo, kutuphane ucretsiz ama yer yok. tercihinize gore secin.",
+      "stats": { "upvotes": 145, "downvotes": 6 },
+      "createdAt": "2024-11-30T09:00:00Z"
+    },
+    {
+      "id": "ent_012",
+      "topicId": "tpc_005",
+      "authorId": "usr_013",
+      "content": "Gece Vakti Kafe 24 saat açık, final haftası kurtarıcı. Gece 3'te bile çalışan öğrenciyle dolu. Kahveleri güzel ama fiyatlar standart üstü.",
+      "stats": { "upvotes": 98, "downvotes": 3 },
+      "createdAt": "2024-11-29T22:00:00Z"
+    },
+    {
+      "id": "ent_013",
+      "topicId": "tpc_006",
+      "authorId": "usr_019",
+      "content": "Etli ekmek yemeden Konya'dan gitmeyin. Hacı Şükrü pahalı ama lezzetli. Öğrenci bütçesine Konya Mutfağı daha uygun. Porsiyon büyük paylaşılır.",
+      "stats": { "upvotes": 167, "downvotes": 8 },
+      "createdAt": "2024-11-28T19:00:00Z"
+    },
+    {
+      "id": "ent_014",
+      "topicId": "tpc_006",
+      "authorId": "usr_002",
+      "content": "kampus yakininda ucuz yemek icin yemekhane en iyi. 25tl tam ogun. disarda 100tlye cikmaz",
+      "stats": { "upvotes": 89, "downvotes": 4 },
+      "createdAt": "2024-11-27T13:00:00Z"
+    },
+    {
+      "id": "ent_015",
+      "topicId": "tpc_007",
+      "authorId": "usr_001",
+      "content": "Python öğrenmek için CS50 Harvard kursu mükemmel. Ücretsiz ve çok kapsamlı. İngilizce ama altyazı var. Sonra Django veya Flask öğrenin web için.",
+      "stats": { "upvotes": 134, "downvotes": 5 },
+      "createdAt": "2024-11-26T15:00:00Z"
+    },
+    {
+      "id": "ent_016",
+      "topicId": "tpc_007",
+      "authorId": "usr_005",
+      "content": "turkce kaynak istiyosan btkakademi ve patika.dev e bak. ucretsiz ve turkce. youtube da sadik turan, adem ilter iyi anlatiyo",
+      "stats": { "upvotes": 112, "downvotes": 3 },
+      "createdAt": "2024-11-25T18:00:00Z"
+    },
+    {
+      "id": "ent_017",
+      "topicId": "tpc_008",
+      "authorId": "usr_017",
+      "content": "Mevlana haftası Aralık'ta oluyor, 7-17 Aralık arası. Sema gösterisi ücretsiz ama çok kalabalık. Bilet almak için erkenden gidin.",
+      "stats": { "upvotes": 189, "downvotes": 2 },
+      "createdAt": "2024-11-29T10:00:00Z"
+    },
+    {
+      "id": "ent_018",
+      "topicId": "tpc_008",
+      "authorId": "usr_004",
+      "content": "Mevlana Müzesi'ni hafta içi ziyaret edin, hafta sonu çok kalabalık. Giriş öğrenci 50TL. İç kısımda fotoğraf yasak, kıyafet kuralları var.",
+      "stats": { "upvotes": 156, "downvotes": 3 },
+      "createdAt": "2024-11-28T14:00:00Z"
+    },
+    {
+      "id": "ent_019",
+      "topicId": "tpc_009",
+      "authorId": "usr_009",
+      "content": "Staj başvurusu için LinkedIn'i aktif tutun. HR'larla bağlantı kurun, şirketlerin postlarına yorum yapın. Soğuk başvurudan daha etkili.",
+      "stats": { "upvotes": 98, "downvotes": 6 },
+      "createdAt": "2024-11-27T11:00:00Z"
+    },
+    {
+      "id": "ent_020",
+      "topicId": "tpc_009",
+      "authorId": "usr_001",
+      "content": "CV tek sayfa olsun, 2 sayfa kimse okumuyor. Proje açıklamalarını bullet point halinde yazın. GitHub linki şart yazılım için.",
+      "stats": { "upvotes": 145, "downvotes": 8 },
+      "createdAt": "2024-11-26T09:00:00Z"
+    }
+  ]
+}

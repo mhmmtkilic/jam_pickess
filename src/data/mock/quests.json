@@ -1,0 +1,125 @@
+{
+  "quests": {
+    "daily": [
+      {
+        "id": "qst_daily_001",
+        "title": "gunluk giris",
+        "description": "platforma giris yap",
+        "reward": 5,
+        "type": "daily",
+        "icon": "calendar",
+        "progress": { "current": 1, "target": 1 },
+        "isCompleted": true,
+        "resetAt": "2024-12-01T00:00:00Z"
+      },
+      {
+        "id": "qst_daily_002",
+        "title": "3 yorum yap",
+        "description": "farkli konulara yorum yaz",
+        "reward": 10,
+        "type": "daily",
+        "icon": "comment",
+        "progress": { "current": 1, "target": 3 },
+        "isCompleted": false,
+        "resetAt": "2024-12-01T00:00:00Z"
+      },
+      {
+        "id": "qst_daily_003",
+        "title": "5 begeni",
+        "description": "icerikleri begen",
+        "reward": 5,
+        "type": "daily",
+        "icon": "like",
+        "progress": { "current": 3, "target": 5 },
+        "isCompleted": false,
+        "resetAt": "2024-12-01T00:00:00Z"
+      }
+    ],
+    "weekly": [
+      {
+        "id": "qst_weekly_001",
+        "title": "wiki duzenle",
+        "description": "3 wiki duzenleme yap",
+        "reward": 50,
+        "type": "weekly",
+        "icon": "edit",
+        "progress": { "current": 1, "target": 3 },
+        "isCompleted": false,
+        "resetAt": "2024-12-02T00:00:00Z"
+      },
+      {
+        "id": "qst_weekly_002",
+        "title": "mekan incele",
+        "description": "2 mekan yorumu yaz",
+        "reward": 30,
+        "type": "weekly",
+        "icon": "location",
+        "progress": { "current": 0, "target": 2 },
+        "isCompleted": false,
+        "resetAt": "2024-12-02T00:00:00Z"
+      }
+    ],
+    "oneTime": [
+      {
+        "id": "qst_onetime_001",
+        "title": "ilk yorum",
+        "description": "ilk yorumunu yaz",
+        "reward": 20,
+        "type": "one_time",
+        "icon": "first",
+        "progress": { "current": 1, "target": 1 },
+        "isCompleted": true
+      },
+      {
+        "id": "qst_onetime_002",
+        "title": "profil tamamla",
+        "description": "profil bilgilerini doldur",
+        "reward": 30,
+        "type": "one_time",
+        "icon": "user",
+        "progress": { "current": 1, "target": 1 },
+        "isCompleted": true
+      },
+      {
+        "id": "qst_onetime_003",
+        "title": "ilk wiki duzenleme",
+        "description": "bir wiki sayfasi duzenle",
+        "reward": 40,
+        "type": "one_time",
+        "icon": "wiki",
+        "progress": { "current": 1, "target": 1 },
+        "isCompleted": true
+      },
+      {
+        "id": "qst_onetime_004",
+        "title": "mekan kesfet",
+        "description": "bir mekan incele",
+        "reward": 50,
+        "type": "one_time",
+        "icon": "discover",
+        "progress": { "current": 0, "target": 1 },
+        "isCompleted": false
+      },
+      {
+        "id": "qst_onetime_005",
+        "title": "arkadas davet et",
+        "description": "birini platforma davet et",
+        "reward": 100,
+        "type": "one_time",
+        "icon": "invite",
+        "progress": { "current": 0, "target": 1 },
+        "isCompleted": false
+      },
+      {
+        "id": "qst_onetime_006",
+        "title": "baslik ac",
+        "description": "yeni bir baslik olustur",
+        "reward": 75,
+        "type": "one_time",
+        "icon": "topic",
+        "progress": { "current": 0, "target": 1 },
+        "isCompleted": false
+      }
+    ]
+  }
+}

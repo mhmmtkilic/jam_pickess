@@ -1,0 +1,85 @@
+{
+  "appConfig": {
+    "appName": "Konya Genç WikiSözlük",
+    "appDescription": "Konya'daki üniversite öğrencilerinin kolektif bilgi platformu",
+    "supportEmail": "destek@konyagenc.wiki",
+    "version": "1.0.0"
+  },
+  "coinConfig": {
+    "kulturKartConversionRate": 100,
+    "minTransferAmount": 100,
+    "maxDailyTransfer": 5000,
+    "rewards": {
+      "topic_created": 20,
+      "wiki_edit": 10,
+      "entry_written": 2,
+      "wiki_useful_vote": 5,
+      "wiki_not_useful_vote": -10,
+      "entry_liked": 1,
+      "social_project": 100,
+      "referral_bonus": 100
+    }
+  },
+  "roles": {
+    "yeni_gelen": {
+      "name": "yeni_gelen",
+      "turkishName": "Yeni Gelen",
+      "minCoin": 0,
+      "maxCoin": 500,
+      "multiplier": 1.0,
+      "color": "#94a3b8",
+      "permissions": ["comment", "suggest_edit"]
+    },
+    "seyyah": {
+      "name": "seyyah",
+      "turkishName": "Seyyah",
+      "minCoin": 501,
+      "maxCoin": 2500,
+      "multiplier": 1.2,
+      "color": "#22c55e",
+      "permissions": ["comment", "edit_wiki"]
+    },
+    "gezgin": {
+      "name": "gezgin",
+      "turkishName": "Gezgin",
+      "minCoin": 2501,
+      "maxCoin": 10000,
+      "multiplier": 1.5,
+      "color": "#3b82f6",
+      "permissions": ["comment", "edit_wiki", "create_topic"]
+    },
+    "kasif_meraklisi": {
+      "name": "kasif_meraklisi",
+      "turkishName": "Kaşif Meraklısı",
+      "minCoin": 10001,
+      "maxCoin": 50000,
+      "multiplier": 2.0,
+      "color": "#a855f7",
+      "permissions": ["comment", "edit_wiki", "create_topic", "moderate"]
+    },
+    "konya_bilgesi": {
+      "name": "konya_bilgesi",
+      "turkishName": "Konya Bilgesi",
+      "minCoin": 50001,
+      "maxCoin": null,
+      "multiplier": 2.5,
+      "color": "#f59e0b",
+      "permissions": ["comment", "edit_wiki", "create_topic", "moderate", "admin_view"]
+    }
+  },
+  "pagination": {
+    "defaultPage": 1,
+    "defaultLimit": 10,
+    "limitOptions": [10, 25, 50, 100]
+  },
+  "venueAmenities": [
+    { "id": "wifi", "name": "WiFi", "icon": "Wifi" },
+    { "id": "priz", "name": "Priz", "icon": "Plug" },
+    { "id": "sessiz", "name": "Sessiz", "icon": "VolumeX" },
+    { "id": "kahve", "name": "Kahve", "icon": "Coffee" },
+    { "id": "toplanti", "name": "Toplantı Odası", "icon": "Users" },
+    { "id": "24saat", "name": "24 Saat", "icon": "Clock" },
+    { "id": "ucretsiz", "name": "Ücretsiz", "icon": "Gift" }
+  ]
+}
+

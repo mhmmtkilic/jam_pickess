@@ -1,0 +1,146 @@
+{
+  "badges": [
+    {
+      "id": "bdg_first_comment",
+      "name": "İlk Adım",
+      "icon": "comment",
+      "description": "İlk yorumunu yaptın!",
+      "requirement": "İlk yorumu yaz",
+      "rarity": "common",
+      "coinReward": 10
+    },
+    {
+      "id": "bdg_wiki_editor",
+      "name": "Wiki Editörü",
+      "icon": "edit",
+      "description": "İlk wiki düzenlemeni yaptın",
+      "requirement": "Bir wiki içeriği düzenle",
+      "rarity": "common",
+      "coinReward": 20
+    },
+    {
+      "id": "bdg_100_likes",
+      "name": "Beğenilen",
+      "icon": "like",
+      "description": "İçeriklerin 100 beğeni aldı",
+      "requirement": "Toplam 100 beğeni al",
+      "rarity": "uncommon",
+      "coinReward": 50
+    },
+    {
+      "id": "bdg_topic_creator",
+      "name": "Başlık Açıcı",
+      "icon": "topic",
+      "description": "İlk başlığını açtın",
+      "requirement": "Yeni başlık oluştur",
+      "rarity": "uncommon",
+      "coinReward": 30
+    },
+    {
+      "id": "bdg_venue_reviewer",
+      "name": "Mekan Uzmanı",
+      "icon": "star",
+      "description": "10 mekan inceleme yaptın",
+      "requirement": "10 mekan incele",
+      "rarity": "rare",
+      "coinReward": 100
+    },
+    {
+      "id": "bdg_referral_master",
+      "name": "Davet Ustası",
+      "icon": "invite",
+      "description": "10 arkadaş davet ettin",
+      "requirement": "10 arkadaş davet et",
+      "rarity": "rare",
+      "coinReward": 200
+    },
+    {
+      "id": "bdg_helpful_hero",
+      "name": "Yardımsever",
+      "icon": "help",
+      "description": "500 faydalı oyu aldın",
+      "requirement": "500 faydalı oyu al",
+      "rarity": "epic",
+      "coinReward": 300
+    },
+    {
+      "id": "bdg_konya_expert",
+      "name": "Konya Uzmanı",
+      "icon": "trophy",
+      "description": "50 Konya içeriği paylaştın",
+      "requirement": "50 Konya içeriği paylaş",
+      "rarity": "epic",
+      "coinReward": 500
+    },
+    {
+      "id": "bdg_streak_7",
+      "name": "Haftalık Seri",
+      "icon": "fire",
+      "description": "7 gün üst üste aktif oldun",
+      "requirement": "7 gün üst üste giriş yap",
+      "rarity": "uncommon",
+      "coinReward": 50
+    },
+    {
+      "id": "bdg_streak_30",
+      "name": "Aylık Seri",
+      "icon": "diamond",
+      "description": "30 gün üst üste aktif oldun",
+      "requirement": "30 gün üst üste giriş yap",
+      "rarity": "rare",
+      "coinReward": 200
+    },
+    {
+      "id": "bdg_500_likes",
+      "name": "Popüler",
+      "icon": "heart",
+      "description": "İçeriklerin 500 beğeni aldı",
+      "requirement": "Toplam 500 beğeni al",
+      "rarity": "rare",
+      "coinReward": 150
+    },
+    {
+      "id": "bdg_1000_likes",
+      "name": "Fenomen",
+      "icon": "star",
+      "description": "İçeriklerin 1000 beğeni aldı",
+      "requirement": "Toplam 1000 beğeni al",
+      "rarity": "epic",
+      "coinReward": 400
+    },
+    {
+      "id": "bdg_first_academic",
+      "name": "Bilgi Paylaşıcı",
+      "icon": "book",
+      "description": "İlk akademik materyalini paylaştın",
+      "requirement": "Akademik materyal paylaş",
+      "rarity": "common",
+      "coinReward": 25
+    },
+    {
+      "id": "bdg_night_owl",
+      "name": "Gece Kuşu",
+      "icon": "moon",
+      "description": "Gece 2'den sonra 10 post paylaştın",
+      "requirement": "Gece geç saatte aktif ol",
+      "rarity": "uncommon",
+      "coinReward": 40
+    },
+    {
+      "id": "bdg_early_bird",
+      "name": "Erken Kalkan",
+      "icon": "sun",
+      "description": "Sabah 6'dan önce 10 post paylaştın",
+      "requirement": "Sabah erken saatte aktif ol",
+      "rarity": "uncommon",
+      "coinReward": 40
+    }
+  ],
+  "rarityColors": {
+    "common": "#9ca3af",
+    "uncommon": "#22c55e",
+    "rare": "#3b82f6",
+    "epic": "#a855f7",
+    "legendary": "#f59e0b"
+  }
+}

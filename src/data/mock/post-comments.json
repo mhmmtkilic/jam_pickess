@@ -1,0 +1,274 @@
+{
+  "postComments": [
+    {
+      "id": "cmt_001",
+      "postId": "pst_001",
+      "authorId": "usr_005",
+      "content": "Bence en önemli şey network. LinkedIn'de bağlantı kur HR'larla, şirketlerin çalışanlarıyla. Soğuk başvuru yapmak yerine referans bul.",
+      "parentCommentId": null,
+      "stats": { "upvotes": 34, "downvotes": 2 },
+      "createdAt": "2024-11-30T10:30:00Z"
+    },
+    {
+      "id": "cmt_002",
+      "postId": "pst_001",
+      "authorId": "usr_009",
+      "content": "doğru söylüyosun da nasıl bağlantı kurcaz linkedinde kimse kabul etmiyo",
+      "parentCommentId": "cmt_001",
+      "stats": { "upvotes": 12, "downvotes": 1 },
+      "createdAt": "2024-11-30T10:45:00Z"
+    },
+    {
+      "id": "cmt_003",
+      "postId": "pst_001",
+      "authorId": "usr_005",
+      "content": "Onların postlarına yorum yap, beğeni at. Bir süre sonra kabul ediyorlar. Ya da etkinliklere git orda tanış.",
+      "parentCommentId": "cmt_002",
+      "stats": { "upvotes": 28, "downvotes": 0 },
+      "createdAt": "2024-11-30T11:00:00Z"
+    },
+    {
+      "id": "cmt_004",
+      "postId": "pst_001",
+      "authorId": "usr_001",
+      "content": "CV'yi tek sayfa yapın. 2 sayfa olan CV'yi kimse okumuyo. Proje açıklamalarını kısa tutun, bullet point halinde.",
+      "parentCommentId": null,
+      "stats": { "upvotes": 56, "downvotes": 3 },
+      "createdAt": "2024-11-30T11:15:00Z"
+    },
+    {
+      "id": "cmt_005",
+      "postId": "pst_001",
+      "authorId": "usr_003",
+      "content": "yok artık tek sayfa ne. adam staj başvurusu yapıyo zaten bişi yok yazılcak daha",
+      "parentCommentId": "cmt_004",
+      "stats": { "upvotes": 8, "downvotes": 15 },
+      "createdAt": "2024-11-30T11:30:00Z"
+    },
+    {
+      "id": "cmt_006",
+      "postId": "pst_003",
+      "authorId": "usr_001",
+      "content": "React öğren kesinlikle. İş ilanlarının %70'i React istiyor. Vue güzel framework ama pazar payı az Türkiye'de.",
+      "parentCommentId": null,
+      "stats": { "upvotes": 45, "downvotes": 8 },
+      "createdAt": "2024-11-30T08:30:00Z"
+    },
+    {
+      "id": "cmt_007",
+      "postId": "pst_003",
+      "authorId": "usr_008",
+      "content": "ikisini de ogren zaten benzer mantik. react ogrenince vue ya gecis kolay ya da tersi",
+      "parentCommentId": null,
+      "stats": { "upvotes": 23, "downvotes": 2 },
+      "createdAt": "2024-11-30T08:45:00Z"
+    },
+    {
+      "id": "cmt_008",
+      "postId": "pst_003",
+      "authorId": "usr_005",
+      "content": "Ben ikisini de biliyorum, React ile daha çok iş buldum. Ama Vue projeler gerçekten daha hızlı geliştiriliyor.",
+      "parentCommentId": "cmt_006",
+      "stats": { "upvotes": 18, "downvotes": 1 },
+      "createdAt": "2024-11-30T09:00:00Z"
+    },
+    {
+      "id": "cmt_009",
+      "postId": "pst_004",
+      "authorId": "usr_017",
+      "content": "Medeni Hukuk için kitap olarak Oğuzman-Barlas tavsiye ederim. Biraz kalın ama en kapsamlı kaynak.",
+      "parentCommentId": null,
+      "stats": { "upvotes": 67, "downvotes": 2 },
+      "createdAt": "2024-11-29T18:30:00Z"
+    },
+    {
+      "id": "cmt_010",
+      "postId": "pst_004",
+      "authorId": "usr_003",
+      "content": "oguzman barlas cok detayli ya. ozet kitaplar daha iyi sinav icin. eren senocak falan",
+      "parentCommentId": "cmt_009",
+      "stats": { "upvotes": 34, "downvotes": 5 },
+      "createdAt": "2024-11-29T18:45:00Z"
+    },
+    {
+      "id": "cmt_011",
+      "postId": "pst_007",
+      "authorId": "usr_004",
+      "content": "Çok kapsamlı olmuş teşekkürler. Karatay Medresesi'ni de ekleyebilirsin, çini müzesi olarak kullanılıyor çok güzel.",
+      "parentCommentId": null,
+      "stats": { "upvotes": 89, "downvotes": 1 },
+      "createdAt": "2024-11-28T16:30:00Z"
+    },
+    {
+      "id": "cmt_012",
+      "postId": "pst_007",
+      "authorId": "usr_013",
+      "content": "Haklısın ekledim, sağol hatırlattığın için. İnce Minare de güzel bu arada.",
+      "parentCommentId": "cmt_011",
+      "stats": { "upvotes": 45, "downvotes": 0 },
+      "createdAt": "2024-11-28T16:45:00Z"
+    },
+    {
+      "id": "cmt_013",
+      "postId": "pst_007",
+      "authorId": "usr_002",
+      "content": "etli ekmek icin Konya Mutfagı da iyi bence. hacı şükrü pahali",
+      "parentCommentId": null,
+      "stats": { "upvotes": 23, "downvotes": 8 },
+      "createdAt": "2024-11-28T17:00:00Z"
+    },
+    {
+      "id": "cmt_014",
+      "postId": "pst_009",
+      "authorId": "usr_005",
+      "content": "Geçen yıl aldım bu dersi. Hocanın sorularını çöz mutlaka, benzer şeyler soruyor. Formül kağıdı veriyorsa şanslısın.",
+      "parentCommentId": null,
+      "stats": { "upvotes": 34, "downvotes": 1 },
+      "createdAt": "2024-11-27T20:30:00Z"
+    },
+    {
+      "id": "cmt_015",
+      "postId": "pst_009",
+      "authorId": "usr_008",
+      "content": "evet formul kagidi veriyo ama komplex sayilari cikarmis bu sene dikkat edin",
+      "parentCommentId": "cmt_014",
+      "stats": { "upvotes": 56, "downvotes": 0 },
+      "createdAt": "2024-11-27T20:45:00Z"
+    },
+    {
+      "id": "cmt_016",
+      "postId": "pst_013",
+      "authorId": "usr_001",
+      "content": "Kripto konusunda katılmıyorum. Uzun vadeli düşünürsen BTC mantıklı olabilir. Ama tabii ki araştırmadan girmeyin.",
+      "parentCommentId": null,
+      "stats": { "upvotes": 23, "downvotes": 34 },
+      "createdAt": "2024-11-26T14:30:00Z"
+    },
+    {
+      "id": "cmt_017",
+      "postId": "pst_013",
+      "authorId": "usr_018",
+      "content": "btc spekülasyon, yatırım değil. gerçek yatırım için temettü veren hisseler veya fon al",
+      "parentCommentId": "cmt_016",
+      "stats": { "upvotes": 45, "downvotes": 12 },
+      "createdAt": "2024-11-26T14:45:00Z"
+    },
+    {
+      "id": "cmt_018",
+      "postId": "pst_015",
+      "authorId": "usr_005",
+      "content": "Leetcode çözmek şart mı? Türkiye'de mülakatlarda çok algoritma sorusu sormuyo gibime geldi.",
+      "parentCommentId": null,
+      "stats": { "upvotes": 28, "downvotes": 3 },
+      "createdAt": "2024-11-25T16:30:00Z"
+    },
+    {
+      "id": "cmt_019",
+      "postId": "pst_015",
+      "authorId": "usr_001",
+      "content": "Büyük şirketler soruyor (Trendyol, Getir vs). Küçük şirketlerde genelde proje anlatıyosun. Ama bilmek zarar etmez.",
+      "parentCommentId": "cmt_018",
+      "stats": { "upvotes": 67, "downvotes": 2 },
+      "createdAt": "2024-11-25T16:45:00Z"
+    },
+    {
+      "id": "cmt_020",
+      "postId": "pst_019",
+      "authorId": "usr_002",
+      "content": "Hoş geldin! Ev için sahibinden.com'a bak. Kampüs yakını Bosna Hersek mahallesi iyi. Tramvay kartı Konya Kart, AVM'lerden alabilirsin.",
+      "parentCommentId": null,
+      "stats": { "upvotes": 45, "downvotes": 0 },
+      "createdAt": "2024-11-24T10:30:00Z"
+    },
+    {
+      "id": "cmt_021",
+      "postId": "pst_019",
+      "authorId": "usr_004",
+      "content": "KTÜ için Selçuklu tarafına bak, kampüse daha yakın. Meram biraz uzak kalır. Kafe için Cafe Study var güzel.",
+      "parentCommentId": null,
+      "stats": { "upvotes": 34, "downvotes": 1 },
+      "createdAt": "2024-11-24T10:45:00Z"
+    },
+    {
+      "id": "cmt_022",
+      "postId": "pst_019",
+      "authorId": "usr_011",
+      "content": "mimarlık okuyacaksan model malzemesi için Kent Plaza'da Kırtasiyeciler var. Maket bıçağı, karton vs bulursun.",
+      "parentCommentId": null,
+      "stats": { "upvotes": 28, "downvotes": 0 },
+      "createdAt": "2024-11-24T11:00:00Z"
+    },
+    {
+      "id": "cmt_023",
+      "postId": "pst_020",
+      "authorId": "usr_001",
+      "content": "Python ile başla, sözdizimi daha kolay yeni başlayanlar için. Sonra JavaScript öğrenirsin web için.",
+      "parentCommentId": null,
+      "stats": { "upvotes": 56, "downvotes": 5 },
+      "createdAt": "2024-11-23T20:30:00Z"
+    },
+    {
+      "id": "cmt_024",
+      "postId": "pst_020",
+      "authorId": "usr_005",
+      "content": "JavaScript öğren direkt. Web de yaparsın, mobil de yaparsın (React Native). Daha geniş kullanım alanı.",
+      "parentCommentId": null,
+      "stats": { "upvotes": 34, "downvotes": 8 },
+      "createdAt": "2024-11-23T20:45:00Z"
+    },
+    {
+      "id": "cmt_025",
+      "postId": "pst_020",
+      "authorId": "usr_008",
+      "content": "cs50 harvard dersini izle youtube da. hem ingilizce ogrenirsin hem de temelleri cok iyi anlatiyo",
+      "parentCommentId": null,
+      "stats": { "upvotes": 78, "downvotes": 1 },
+      "createdAt": "2024-11-23T21:00:00Z"
+    },
+    {
+      "id": "cmt_026",
+      "postId": "pst_016",
+      "authorId": "usr_011",
+      "content": "Figma gerçekten harika, ücretsiz versiyonu bile çok yeterli. Mimarlıkta da kullanıyoruz sunum için.",
+      "parentCommentId": null,
+      "stats": { "upvotes": 23, "downvotes": 0 },
+      "createdAt": "2024-11-25T12:30:00Z"
+    },
+    {
+      "id": "cmt_027",
+      "postId": "pst_016",
+      "authorId": "usr_016",
+      "content": "Adobe XD de güzel ama Figma'nın işbirliği özellikleri daha iyi. Takım çalışması için Figma şart.",
+      "parentCommentId": "cmt_026",
+      "stats": { "upvotes": 18, "downvotes": 2 },
+      "createdAt": "2024-11-25T12:45:00Z"
+    },
+    {
+      "id": "cmt_028",
+      "postId": "pst_006",
+      "authorId": "usr_004",
+      "content": "Portfolyo için kendi web sitesi şart mı? Behance yeterli olur mu?",
+      "parentCommentId": null,
+      "stats": { "upvotes": 12, "downvotes": 0 },
+      "createdAt": "2024-11-29T12:30:00Z"
+    },
+    {
+      "id": "cmt_029",
+      "postId": "pst_006",
+      "authorId": "usr_011",
+      "content": "Behance yeterli başlangıç için. Ama ileride kendi siten olması daha profesyonel durur. Wix veya Squarespace ile kolay yapılır.",
+      "parentCommentId": "cmt_028",
+      "stats": { "upvotes": 34, "downvotes": 1 },
+      "createdAt": "2024-11-29T12:45:00Z"
+    },
+    {
+      "id": "cmt_030",
+      "postId": "pst_002",
+      "authorId": "usr_013",
+      "content": "Kahve fiyatları gerçekten uçmuş her yerde. Ama sessiz ortam bulması zor Konya'da, mecbur gidiyosun.",
+      "parentCommentId": null,
+      "stats": { "upvotes": 28, "downvotes": 2 },
+      "createdAt": "2024-11-30T10:00:00Z"
+    }
+  ]
+}
